@@ -6,7 +6,8 @@ This repository contains the experimental validation details for the lumped para
 
 ### Experimental Setup
 
-![Scaled-down grounding system](link/to/your/figure)
+![fig100](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation/assets/96079504/ba2851b3-8f18-4c76-a4f1-d1ad3feacb9d)
+
 
 To validate the lumped parameter model introduced in Section 1, experiments were conducted using a scaled-down multi-grounded system. The system consisted of three 1.5 m rods spaced 7.5 m apart, interconnected to a 15 m horizontal electrode. Each copper rod symbolized a turbine grounding, boasting a cross-sectional area of 126 mm², while the copper horizontal electrode had a cross-sectional area of 35 mm².
 

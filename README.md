@@ -47,11 +47,6 @@ The apparent resistivity observed by the horizontal electrode is determined by a
 
 As per paper, the parameter $k$ was estimated to be 0.74 for an $s$ value of 0.22 m and 0.90 for an $s$ value of 1.5 m.
 
-
-### Grounding Resistance Calculation
-
-The grounding resistance of each rod R<sub>rod</sub> was calculated using the Sunde formula, taking into account the apparent resistivity observed by the rod. The rod shunt capacitance C<sub>rod</sub> was also calculated using the formula provided.
-
 ### Results
 
 The obtained results demonstrate a robust agreement, with a Mean Absolute Percentage Error of 1.39 ± 0.12%, between the values registered by the clamp-on meter and those predicted by the proposed equivalent electrical circuit model.

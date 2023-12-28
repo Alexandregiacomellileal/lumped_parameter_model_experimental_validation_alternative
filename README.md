@@ -1,5 +1,7 @@
 ## Lumped Parameter Model Experimental Validation
 
+<img width="939" alt="image" src="https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation/assets/96079504/77b1d0fe-131d-495c-a2ad-e7cb8a3392ab">
+
 ### Overview
 
 This repository contains the experimental validation details for the lumped parameter model introduced in Section 2.2 of the associated research paper. The validation experiments were conducted using a scaled-down multi-grounded system, as described below.

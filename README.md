@@ -26,7 +26,7 @@ The grounding resistance of the rod R<sub>rod</sub> is calculated as follows:
 $\ R_{\text{rod}} = \frac{\rho_a^{\text{rod}}}{2 \pi l_{\text{rod}}} \left( \ln\left(\frac{4l_{\text{rod}}}{a_{\text{rod}}}\right) - 1 \right) \, \Omega \$
 
 Where:
-- $\rho_a^{rod}$ represents the apparent resistivity observed by the rod ($\(\Omega \cdot \text{m}\)$),
+- $\rho_a^{rod}$ represents the apparent resistivity observed by the rod ($\Omega \cdot \text{m}$),
 - $l_{rod}$ is the rod's length (m),
 - $a_{rod}$ is the rod's radius (m).
 

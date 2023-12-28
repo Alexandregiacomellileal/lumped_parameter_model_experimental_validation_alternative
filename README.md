@@ -47,6 +47,9 @@ The apparent resistivity observed by the horizontal electrode is determined by a
 
 As per paper, the parameter $k$ was estimated to be 0.74 for an $s$ value of 0.22 m and 0.90 for an $s$ value of 1.5 m.
 
+![image](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation/assets/96079504/57b61253-eafc-4f45-8201-5c5d51c45294)
+
+
 ### Results
 
 The obtained results demonstrate a robust agreement, with a Mean Absolute Percentage Error of 1.39 ± 0.12%, between the values registered by the clamp-on meter and those predicted by the proposed equivalent electrical circuit model.

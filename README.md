@@ -19,7 +19,7 @@ Measurements Zmed <sub>meter</sub> were conducted using the UT-278A clamp-on met
 
 ### Electrical Circuit and Grounding Resistance Calculation
 
-The electrical circuit for the measurements was established and simulated to acquire the meter readings Zmed<sub>LPM</sub> following the procedures detailed in Section 2.2 of the associated research paper. Notably, the approach used to calculate the grounding resistance of the rod differs, utilizing the Sunde formula. This formula is particularly suitable for scenarios where cylindrical electrodes are vertically installed, especially when their length significantly exceeds their cross-section.
+The electrical circuit for the measurements was established and simulated in ATP to acquire the meter readings Zmed<sub>LPM</sub> following the procedures detailed in Section 2.2 of the associated research paper. Notably, the approach used to calculate the grounding resistance of the rod differs, utilizing the Sunde formula. This formula is particularly suitable for scenarios where cylindrical electrodes are vertically installed, especially when their length significantly exceeds their cross-section.
 
 The grounding resistance of the rod R<sub>rod</sub> is calculated as follows:
 

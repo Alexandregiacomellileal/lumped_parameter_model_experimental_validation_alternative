@@ -47,8 +47,7 @@ The apparent resistivity observed by the horizontal electrode is determined by a
 
 As per paper, the parameter $k$ was estimated to be 0.74 for an $s$ value of 0.22 m and 0.90 for an $s$ value of 1.5 m.
 
-![image](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation/assets/96079504/57b61253-eafc-4f45-8201-5c5d51c45294)
-
+![image](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation/assets/96079504/dbe2690e-2a8d-40c9-a3d6-4e0a9405916c)
 
 ### Results
 

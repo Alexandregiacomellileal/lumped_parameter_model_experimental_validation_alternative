@@ -37,7 +37,7 @@ $\ C_{rod} = \frac{\rho_a^{rod} \ \varepsilon}{R_{rod}} \, \text{F} \$
 Where:
 - $\varepsilon$ represents the permittivity of the soil, estimated at $7.9686 \times 10^{-11} \, \text{F/m}$.
 
-### Measurement Methods
+### Driven Rod Method for Measuring Apparent Resistivities
 
 The apparent resistivities $\rho_a^{rod}$ are measured using the driven rod method with the low-frequency Fall-of-Potential method. The equipment used for these measurements is the digital earth meter MTR-1522. The instrument has a resolution of \(0.01 \, \Omega\), and its accuracy is $\pm (2.0\% + 20 \, \text{dig})$.
 
@@ -45,7 +45,7 @@ The apparent resistivity observed by the horizontal electrode is determined by a
 
 ### Parameter Estimation
 
-As per Section \ref{sub:k}, the parameter $k$ was estimated to be 0.74 for an $s$ value of 0.22 m and 0.90 for an $s$ value of 1.5 m.
+As per paper, the parameter $k$ was estimated to be 0.74 for an $s$ value of 0.22 m and 0.90 for an $s$ value of 1.5 m.
 
 
 ### Grounding Resistance Calculation

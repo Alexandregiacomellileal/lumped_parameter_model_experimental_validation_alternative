@@ -17,6 +17,46 @@ The horizontal electrode was buried 0.12 m below the ground. Two different condi
 
 Measurements Zmed <sub>meter</sub> were conducted using the UT-278A clamp-on meter attached to the interconnection cable linking each rod to the horizontal electrode. The measurements were compared with simulated readings Zmed <sub>LPM</sub> obtained from the proposed equivalent electrical circuit model.
 
+## Electrical Circuit and Grounding Resistance Calculation
+
+The electrical circuit for the measurements was established and simulated to acquire the meter readings $Zmed_{LPM}$ following the procedures detailed in Section \ref{sub: Modeling}. Notably, the approach used to calculate the grounding resistance of the rod differs, utilizing the Sunde formula \cite{ref18}. This formula is particularly suitable for scenarios where cylindrical electrodes are vertically installed, especially when their length significantly exceeds their cross-section.
+
+The grounding resistance of the rod ($R_{rod}$) is calculated as follows:
+
+\[ R_{rod} = \frac{\rho_a^{rod}}{2 \pi l_{rod}} \left[ \ln\left(\frac{4l_{rod}}{a_{rod}}\right) - 1 \right] \, \Omega \]
+
+Where:
+- $\rho_a^{rod}$ represents the apparent resistivity observed by the rod (\(\Omega \cdot \text{m}\)),
+- $l_{rod}$ is the rod's length (m),
+- $a_{rod}$ is the rod's radius (m).
+
+The rod shunt capacitance ($C_{rod}$) is calculated using the formula:
+
+\[ C_{rod} = \frac{\rho_a^{rod} \ \varepsilon}{R_{rod}} \, \text{F} \]
+
+Where:
+- $\varepsilon$ represents the permittivity of the soil, estimated at $7.9686 \times 10^{-11} \, \text{F/m}$.
+
+### Measurement Methods
+
+The apparent resistivities $\rho_a^{rod}$ are measured using the driven rod method with the low-frequency Fall-of-Potential method. The equipment used for these measurements is the digital earth meter MTR-1522. The instrument has a resolution of \(0.01 \, \Omega\), and its accuracy is $\pm (2.0\% + 20 \, \text{dig})$.
+
+The apparent resistivity observed by the horizontal electrode is determined by averaging the apparent resistivities observed by the rods. This observation is cross-validated using the Fall-of-Potential method.
+
+### Parameter Estimation
+
+As per Section \ref{sub:k}, the parameter $k$ was estimated to be 0.74 for an $s$ value of 0.22 m and 0.90 for an $s$ value of 1.5 m.
+
+## Experimental Results Summary
+
+Table \ref{tab:comp10} displays the summarized results of this section, including clamp-on ground meter readings, estimated values, and the Mean Absolute Percentage Error (APE) between the values registered by the clamp-on meter and those predicted by the proposed equivalent electrical circuit model.
+
+This expanded section provides
+
+
+
+
+
 ### Grounding Resistance Calculation
 
 The grounding resistance of each rod R<sub>rod</sub> was calculated using the Sunde formula, taking into account the apparent resistivity observed by the rod. The rod shunt capacitance C<sub>rod</sub> was also calculated using the formula provided.

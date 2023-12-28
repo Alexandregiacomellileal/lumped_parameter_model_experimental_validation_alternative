@@ -15,11 +15,11 @@ The horizontal electrode was buried 0.12 m below the ground. Two different condi
 
 ### Measurements
 
-Measurements Zmed <sub>meter</sub> were conducted using the UT-278A clamp-on meter attached to the interconnection cable linking each rod to the horizontal electrode. The measurements were compared with simulated readings (Zmed_{LPM}) obtained from the proposed equivalent electrical circuit model.
+Measurements Zmed <sub>meter</sub> were conducted using the UT-278A clamp-on meter attached to the interconnection cable linking each rod to the horizontal electrode. The measurements were compared with simulated readings Zmed <sub>LPM</sub> obtained from the proposed equivalent electrical circuit model.
 
 ### Grounding Resistance Calculation
 
-The grounding resistance of each rod (R_{rod}) was calculated using the Sunde formula, taking into account the apparent resistivity observed by the rod. The rod shunt capacitance (C_{rod}) was also calculated using the formula provided.
+The grounding resistance of each rod R<sub>rod</sub> was calculated using the Sunde formula, taking into account the apparent resistivity observed by the rod. The rod shunt capacitance C<sub>rod</sub> was also calculated using the formula provided.
 
 ### Results
 
@@ -27,7 +27,7 @@ The obtained results demonstrate a robust agreement, with a Mean Absolute Percen
 
 ### Table of Results
 
-| s (m) | k | Rod | Zmed_{meter} (Ω) | Zmed_{LPM} (Ω) | APE_{LPM} (%) |
+| s (m) | k | Rod | Zmed<sub>meter<\sub> (Ω) | Zmed<sub>LPM<\sub> (Ω) | APE<sub>LPM<\sub> (%) |
 |-------|---|-----|-------------------|----------------|---------------|
 | 0.22  | 0.74 | 1 | 63.5 ± 1.5 | 64.37 ± 3.84 | 1.37 ± 0.09 |
 | 0.22  | 0.74 | 2 | 46.3 ± 1.2 | 47.06 ± 2.86 | 1.64 ± 0.13 |

@@ -23,7 +23,7 @@ The electrical circuit for the measurements was established and simulated to acq
 
 The grounding resistance of the rod R<sub>rod</sub> is calculated as follows:
 
-\[ R_{\text{rod}} = \frac{\rho_a^{\text{rod}}}{2 \pi l_{\text{rod}}} \left( \ln\left(\frac{4l_{\text{rod}}}{a_{\text{rod}}}\right) - 1 \right) \, \Omega \]
+\math\[ R_{\text{rod}} = \frac{\rho_a^{\text{rod}}}{2 \pi l_{\text{rod}}} \left( \ln\left(\frac{4l_{\text{rod}}}{a_{\text{rod}}}\right) - 1 \right) \, \Omega \]
 
 Where:
 - $\rho_a^{rod}$ represents the apparent resistivity observed by the rod (\(\Omega \cdot \text{m}\)),
@@ -32,7 +32,7 @@ Where:
 
 The rod shunt capacitance C<sub>rod</sub> is calculated using the formula:
 
-\[ C_{rod} = \frac{\rho_a^{rod} \ \varepsilon}{R_{rod}} \, \text{F} \]
+$\[ C_{rod} = \frac{\rho_a^{rod} \ \varepsilon}{R_{rod}} \, \text{F} \]$
 
 Where:
 - $\varepsilon$ represents the permittivity of the soil, estimated at $7.9686 \times 10^{-11} \, \text{F/m}$.

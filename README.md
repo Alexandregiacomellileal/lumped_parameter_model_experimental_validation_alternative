@@ -15,7 +15,7 @@ The horizontal electrode was buried 0.12 m below the ground. Two different condi
 
 ### Measurements
 
-Measurements Zmed <sub> meter <sub> were conducted using the UT-278A clamp-on meter attached to the interconnection cable linking each rod to the horizontal electrode. The measurements were compared with simulated readings (Zmed_{LPM}) obtained from the proposed equivalent electrical circuit model.
+Measurements Zmed <sub>meter</sub> were conducted using the UT-278A clamp-on meter attached to the interconnection cable linking each rod to the horizontal electrode. The measurements were compared with simulated readings (Zmed_{LPM}) obtained from the proposed equivalent electrical circuit model.
 
 ### Grounding Resistance Calculation
 

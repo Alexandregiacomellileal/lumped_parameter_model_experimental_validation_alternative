@@ -47,7 +47,7 @@ All simulation input parameters for every ground resistance measurement circuit,
 
 ### Table of Results
 
-# Comparison between modeling and measurement results
+#### Comparison between modeling and measurement results
 
 | Turbine                           | 1      | 2      | 3      |
 |-----------------------------------|--------|--------|--------|
@@ -62,7 +62,7 @@ All simulation input parameters for every ground resistance measurement circuit,
 [^1]: A.G. Leal, H.L. L ́opez-Salamanca, A.E. Lazzaretti, D.C. Marcilio, A new approach for ground resistance measurements in onshore wind farms based on clamp-on meters and artificial neural network, Electric Power Systems Research. 210 (2022) 108161.
 
 
-# Clamp-on meter readings - Final results including measurement error propagation study
+#### Clamp-on meter readings - Final results including measurement error propagation study
 
 | Turbine | $Zmed_{{\text{meter}}} (\Omega)$ | $Zmed_{{\text{LPM}}} (\Omega)$ | $APE_{\text{LPM}} (percent)$ |
 |---------|---------------------------------|--------------------------------------|----------------------------|

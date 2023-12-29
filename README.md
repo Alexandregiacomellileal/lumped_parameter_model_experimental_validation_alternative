@@ -33,8 +33,7 @@ In this study, the apparent resistivity for the cylinder electrodes was determin
 
 ### $k$ Parameter Estimation
 
-The electrical circuit for these measurements was established and simulated to acquire the meter readings ZmedLP M following the procedures detailed in Section 2.2. the parameter k was estimated to be 0.69 for an s value of 28.5 cm.
-The COMSOL models used by the authors are attached and named **rod_1.5_he_k.mph** and **vrod_1.5_two_sphere_k.mph**. The graph below depicts the fluctuation of the parameter $k$ about the increasing distance $s$ between the turbine and the horizontal electrodes.
+The electrical circuit for these measurements was established and simulated to acquire the meter readings $Zmed_{{\text{LPM}$ following the procedures detailed in Section 2.2. the parameter k was estimated to be 0.69 for an s value of 28.5 cm. The COMSOL models used by the authors are attached and named **rod_1.5_he_k.mph** and **vrod_1.5_two_sphere_k.mph**. The graph below depicts the fluctuation of the parameter $k$ about the increasing distance $s$ between the turbine and the horizontal electrodes.
 
 ### Results
 
@@ -44,7 +43,7 @@ The obtained results demonstrate a robust agreement, with a Mean Absolute Percen
 
 # Clamp-on Ground Meter Readings
 
-| Turbine | $Zmed_{{\text{meter}}} (\Omega)$ | $Zmed_{{\text{LPM}}} (\Omega)$ | $APE_{\text{LPM}} ( \% ) $ |
+| Turbine | $Zmed_{{\text{meter}}} (\Omega)$ | $Zmed_{{\text{LPM}}} (\Omega)$ | $APE_{\text{LPM}} % $ |
 |---------|---------------------------------|--------------------------------------|----------------------------|
 | 1       | 37.8 $\pm$ 0.5                 | 38.50 $\pm$ 3.28                     | 1.85 $\pm$ 0.21            |
 | 2       | 40.5 $\pm$ 0.5                 | 41.22 $\pm$ 3.50                     | 1.79 $\pm$ 0.19            |

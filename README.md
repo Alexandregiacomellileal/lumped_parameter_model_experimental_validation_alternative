@@ -45,11 +45,11 @@ The obtained results demonstrate a robust agreement, with a Mean Absolute Percen
 
 | Turbine                           | 1      | 2      | 3      |
 |-----------------------------------|--------|--------|--------|
-| $Zmed_{{\text{meter}}} (\Omega)$ | 37.8   | 40.5   | 37.5   |
-| $Zmed_{{\text{EFM}}} (\Omega)$   | 38.18  | 41.04  | 37.71  |
+| $Zmed_{{\text{meter}}} UT-278A (\Omega)$ | 37.8   | 40.5   | 37.5   |
+| $Zmed_{{\text{EFM}}} (\Omega)$ COMSOL | 38.18  | 41.04  | 37.71  |
 | $Zmed_{{\text{LPM}}} (\Omega)$ [^1]| 46.90  | 55.69  | 46.41  |
 | $Zmed_{{\text{LPM}}}(\Omega)$  proposed | 38.50  | 41.22  | 38.10  |
-| $APE_{\text{EFM}}(percent)$           | 1.01   | 1.33   | 0.56   |
+| $APE_{\text{EFM}}(percent)$ COMSOL           | 1.01   | 1.33   | 0.56   |
 | $APE_{\text{LPM}}(percent)$ [^1] | 24.08  | 37.52  | 23.77  |
 | $APE_{\text{LPM}}(percent)$  proposed| 1.85   | 1.79   | 1.60   |
 

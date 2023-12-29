@@ -26,13 +26,12 @@ The electrical circuit for the measurements was established and simulated in ATP
 
 The apparent resistivities of the turbines $\rho_a^{wtg}$ is calculated as follows:
 
-$\ \rho_a^{wtg} = 2 \ \pi \ r_{spherical} \ R_{FoP}^{wtg}, \Omega \$
+$\ \rho_a^{wtg} = 2 \ \pi \ r_{eq}^{wtg} \ R_{FoP}^{wtg}, \ \Omega \$
 
 Where:
-- $\rho_a^{rod}$ represents the apparent resistivity observed by the rod ($\Omega \cdot \text{m}$),
-- $l_{rod}$ is the rod's length (m),
-- $a_{rod}$ is the rod's radius (m).
-- 
+- $R_{FoP}^{wtg}$ represents the grouding resistance mesused by Low-frequency Fall-of_potential Method ($\Omega \cdot \text{m}$)
+- $r_{eq}^{wtg}$ is the radius of a semi-spherical electrode with the same ground contact area as the cylinder, i.e., the turbine foundation (m),
+ 
 The apparent resistivity for the cylinder electrodes was estimated at 81.1, 99.3, and 80.1 Ω · m. Correspondingly, the apparent resistivity for the horizontal electrode sections was recorded at 90.2 and 89.7 Ω·m. The electrode’s apparent resistivity values were determined using , incorporating the grounding resistance of the electrodes estimated through the low-frequency FOP method. The equipment used was the digital earth meter MTR-1522. The instrument resolution is 0.01 Ω, and its accuracy is ± (2.0% + 20 dig).
 
 

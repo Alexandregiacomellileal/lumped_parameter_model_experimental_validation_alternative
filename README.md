@@ -10,7 +10,7 @@ This repository contains the experimental validation details for the lumped para
 
 ### Experimental Setup
 
-<img src="[https://your-image-url.type](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation/assets/96079504/ba2851b3-8f18-4c76-a4f1-d1ad3feacb9d)" width="100" height="100">
+<img src="https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation/assets/96079504/ba2851b3-8f18-4c76-a4f1-d1ad3feacb9d" width="100" height="100">
 
 ![fig100](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation/assets/96079504/ba2851b3-8f18-4c76-a4f1-d1ad3feacb9d | width=100)
 

@@ -43,7 +43,7 @@ The obtained results demonstrate a robust agreement, with a Mean Absolute Percen
 
 # Clamp-on Ground Meter Readings
 
-| Turbine | $Zmed_{{\text{meter}}} (\Omega)$ | $Zmed_{{\text{LPM}}} (\Omega)$ | $APE_{\text{LPM}}$ $(%)$ |
+| Turbine | $Zmed_{{\text{meter}}} (\Omega)$ | $Zmed_{{\text{LPM}}} (\Omega)$ | $APE_{\text{LPM}} (\&#37;)$ |
 |---------|---------------------------------|--------------------------------------|----------------------------|
 | 1       | 37.8 $\pm$ 0.5                 | 38.50 $\pm$ 3.28                     | 1.85 $\pm$ 0.21            |
 | 2       | 40.5 $\pm$ 0.5                 | 41.22 $\pm$ 3.50                     | 1.79 $\pm$ 0.19            |
@@ -59,9 +59,9 @@ The obtained results demonstrate a robust agreement, with a Mean Absolute Percen
 | $Z_{med_{\text{EFM}}} (\Omega)$   | 38.18  | 41.04  | 37.71  |
 | $Z_{med_{\text{LPM}}}^{[33]} (\Omega)$ | 46.90  | 55.69  | 46.41  |
 | $Z_{med_{\text{LPM}}}^{Proposed} (\Omega)$ | 38.50  | 41.22  | 38.10  |
-| $APE_{\text{EFM}}(\%.)$           | 1.01   | 1.33   | 0.56   |
-| $APE_{\text{LPM}}^{[33]}(&#37;)$  | 24.08  | 37.52  | 23.77  |
-| $APE_{\text{LPM}}^{Proposed}(\%.)$ | 1.85   | 1.79   | 1.60   |
+| $APE_{\text{EFM}}(\&#37;)$           | 1.01   | 1.33   | 0.56   |
+| $APE_{\text{LPM}}^{[33]}(\&#37;)$  | 24.08  | 37.52  | 23.77  |
+| $APE_{\text{LPM}}^{Proposed}(\&#37;)$ | 1.85   | 1.79   | 1.60   |
 
 
 ### Conclusion

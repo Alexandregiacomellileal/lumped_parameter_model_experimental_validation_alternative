@@ -59,7 +59,7 @@ The COMSOL models used by the authors are attached and named **rod_1.5_he_k.mph*
 
 ### Results
 
-The obtained results demonstrate a robust agreement, with a Mean Absolute Percentage Error of 1.39 ± 0.12%, between the values registered by the clamp-on meter and those predicted by the proposed equivalent electrical circuit model. The complete results obtained as well as the input parameters of the measurement circuits simulated in ATP are in spreadsheet **validação_reduce_scale_081123.xlsx**.
+The obtained results demonstrate a robust agreement, with a Mean Absolute Percentage Error of 1.39 ± 0.12%, between the values registered by the clamp-on meter and those predicted by the proposed equivalent electrical circuit model. The complete results obtained as well as the input parameters of the measurement circuits simulated in ATP are in spreadsheet **validação_reduce_scale_081123.xlsx**. It is important to mention that an measurement error propagation study was carried out to address measurement uncertainties.
 
 ### Table of Results
 

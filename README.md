@@ -1,6 +1,7 @@
 ## Lumped Parameter Model Experimental Validation - Reduced Scale
 
-![reduce_scale_git](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation/assets/96079504/944fe6ab-ffac-4d92-acf9-e7ef5fc7e408)
+![reduce_scale_git_alternative](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/3537ef4d-0c1d-4ffa-aa61-864579afe6cd)
+
 
 
 

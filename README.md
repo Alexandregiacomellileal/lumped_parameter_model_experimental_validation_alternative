@@ -41,17 +41,7 @@ The obtained results demonstrate a robust agreement, with a Mean Absolute Percen
 
 ### Table of Results
 
-# Clamp-on Ground Meter Readings
-
-| Turbine | $Zmed_{{\text{meter}}} (\Omega)$ | $Zmed_{{\text{LPM}}} (\Omega)$ | $APE_{\text{LPM}} (percent)$ |
-|---------|---------------------------------|--------------------------------------|----------------------------|
-| 1       | 37.8 $\pm$ 0.5                 | 38.50 $\pm$ 3.28                     | 1.85 $\pm$ 0.21            |
-| 2       | 40.5 $\pm$ 0.5                 | 41.22 $\pm$ 3.50                     | 1.79 $\pm$ 0.19            |
-| 3       | 37.5 $\pm$ 0.5                 | 38.10 $\pm$ 3.25                     | 1.60 $\pm$ 0.21            |
-
-
-
-# Modeling Comparison
+# Comparison between modeling and measurement results
 
 | Turbine                           | 1      | 2      | 3      |
 |-----------------------------------|--------|--------|--------|
@@ -64,6 +54,16 @@ The obtained results demonstrate a robust agreement, with a Mean Absolute Percen
 | $APE_{\text{LPM}}(percent)$  proposed| 1.85   | 1.79   | 1.60   |
 
 [^1]: A.G. Leal, H.L. L ́opez-Salamanca, A.E. Lazzaretti, D.C. Marcilio, A new approach for ground resistance measurements in onshore wind farms based on clamp-on meters and artificial neural network, Electric Power Systems Research. 210 (2022) 108161.
+
+
+# Clamp-on meter readings - Final results including measurement error propagation study
+
+| Turbine | $Zmed_{{\text{meter}}} (\Omega)$ | $Zmed_{{\text{LPM}}} (\Omega)$ | $APE_{\text{LPM}} (percent)$ |
+|---------|---------------------------------|--------------------------------------|----------------------------|
+| 1       | 37.8 $\pm$ 0.5                 | 38.50 $\pm$ 3.28                     | 1.85 $\pm$ 0.21            |
+| 2       | 40.5 $\pm$ 0.5                 | 41.22 $\pm$ 3.50                     | 1.79 $\pm$ 0.19            |
+| 3       | 37.5 $\pm$ 0.5                 | 38.10 $\pm$ 3.25                     | 1.60 $\pm$ 0.21            |
+
 
 ### Conclusion
 

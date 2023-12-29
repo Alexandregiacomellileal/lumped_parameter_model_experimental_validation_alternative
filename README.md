@@ -42,7 +42,7 @@ Where:
 
 ### Driven Rod Method for Measuring Apparent Resistivities
 
-The apparent resistivity for the cylinder electrodes was estimated at 81.1, 99.3, and 80.1 Ω · m. Correspondingly, the apparent resistivity for the horizontal electrode sections was recorded at 90.2 and 89.7 Ω·m. The electrode’s apparent resistivity values were determined using $\ \rho_a^{\text{turbine}} = 2 \pi r R_{FoP}^{\text{turbine}}, \Omega \$, incorporating the grounding resistance of the electrodes estimated through the low-frequency FOP method. The equipment used was the digital earth meter MTR-1522. The instrument resolution is 0.01 Ω, and its accuracy is ± (2.0% + 20 dig).
+The apparent resistivity for the cylinder electrodes was estimated at 81.1, 99.3, and 80.1 Ω · m. Correspondingly, the apparent resistivity for the horizontal electrode sections was recorded at 90.2 and 89.7 Ω·m. The electrode’s apparent resistivity values were determined using $\ \rho_a = 2 \ \pi \ r \ R_{FoP}, \Omega \$, incorporating the grounding resistance of the electrodes estimated through the low-frequency FOP method. The equipment used was the digital earth meter MTR-1522. The instrument resolution is 0.01 Ω, and its accuracy is ± (2.0% + 20 dig).
 
 
 ### $k$ Parameter Estimation

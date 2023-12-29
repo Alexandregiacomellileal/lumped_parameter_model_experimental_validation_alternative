@@ -48,6 +48,8 @@ The apparent resistivities $\rho_a^{rod}$ are measured using the driven rod meth
 
 The apparent resistivity observed by the horizontal electrode is determined by averaging the apparent resistivities observed by the rods. This observation is cross-validated using the Fall-of-Potential method.
 
+The apparent resistivity for the cylinder electrodes was estimated at 81.1, 99.3, and 80.1 $\Omega \cdot m$. Correspondingly, the apparent resistivity for the horizontal electrode sections was recorded at 90.2 and 89.7 $\Omega \cdot m$.
+
 ### Parameter Estimation
 
 As per Section 2.2 of the associated research paper, the parameter $k$ was estimated to be 0.74 for an $s$ value of 0.22 m and 0.90 for an $s$ value of 1.5 m.

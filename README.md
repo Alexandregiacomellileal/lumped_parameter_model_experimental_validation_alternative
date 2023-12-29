@@ -50,7 +50,7 @@ The apparent resistivity observed by the horizontal electrode is determined by a
 
 The apparent resistivity for the cylinder electrodes was estimated at 81.1, 99.3, and 80.1 $\Omega \cdot m$. Correspondingly, the apparent resistivity for the horizontal electrode sections was recorded at 90.2 and 89.7 $\Omega \cdot m$.
 
-### Parameter Estimation
+### $k$ Parameter Estimation
 
 As per Section 2.2 of the associated research paper, the parameter $k$ was estimated to be 0.74 for an $s$ value of 0.22 m and 0.90 for an $s$ value of 1.5 m.
 The COMSOL models used by the authors are attached and named **rod_1.5_he_k.mph** and **vrod_1.5_two_sphere_k.mph**.

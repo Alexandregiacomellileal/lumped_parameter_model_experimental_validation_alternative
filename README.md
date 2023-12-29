@@ -26,7 +26,7 @@ The electrical circuit for the measurements was established and simulated in ATP
 
 The apparent resistivity ($\rho_a^{wtg}$) of the turbines is computed using the formula $\ \rho_a^{wtg} = 2 \ \pi \ r_{eq}^{wtg} \ R_{FoP}^{wtg} \ (\Omega.m) $, where $R_{FoP}^{wtg}$ represents the grounding resistance measured by the low-frequency Fall-of-Potential Method ($\Omega$), and $r_{eq}^{wtg}$ is the radius of a semi-spherical electrode with an equivalent ground contact area as the turbine foundation (m).
 
-The apparent resistivity ($\rho_a^{he}$) observed by the horizontal electrode is determined by averaging the apparent resistivities of the turbines in their extremities, and this is cross-validated using the Low-frequency Fall-of-Potential method.
+The apparent resistivity ($\rho_a^{he}$) observed by the horizontal electrode is determined by averaging the apparent resistivities ($\rho_a^{wtg}$) of the turbines in their extremities, and this is cross-validated using the low-frequency Fall-of-Potential method.
 
 In this study, the apparent resistivity for the cylinder electrodes was determined to be 81.1, 99.3, and 80.1 Ω·m, while the apparent resistivity for the horizontal electrode sections was recorded at 90.2 and 89.7 Ω·m. The measurements were conducted using the digital earth meter MTR-1522, which has a resolution of 0.01 Ω and an accuracy of ± (2.0% + 20 digits).
 

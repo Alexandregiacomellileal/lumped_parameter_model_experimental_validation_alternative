@@ -36,22 +36,21 @@ In this study, the apparent resistivity for the cylinder electrodes was determin
 The electrical circuit for these measurements was established and simulated to acquire the meter readings ZmedLP M following the procedures detailed in Section 2.2. the parameter k was estimated to be 0.69 for an s value of 28.5 cm.
 The COMSOL models used by the authors are attached and named **rod_1.5_he_k.mph** and **vrod_1.5_two_sphere_k.mph**. The graph below depicts the fluctuation of the parameter $k$ about the increasing distance $s$ between the turbine and the horizontal electrodes.
 
-<img src="https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation/assets/96079504/f3d72683-0fc8-4b29-bddf-039e2b4e0f16" width="400" height="300">
-
 ### Results
 
 The obtained results demonstrate a robust agreement, with a Mean Absolute Percentage Error of of 1.75 ± 0.20 %, between the values registered by the clamp-on meter and those predicted by the proposed equivalent electrical circuit model. It is important to mention that an measurement error propagation study was carried out to address measurement uncertainties.
 
 ### Table of Results
 
-| s (m) | k | Rod | Zmed<sub>meter</sub> (Ω) | Zmed<sub>LPM</sub> (Ω) | APE<sub>LPM</sub> (%) |
-|-------|---|-----|-------------------|----------------|---------------|
-| 0.22  | 0.74 | 1 | 63.5 ± 1.5 | 64.37 ± 3.84 | 1.37 ± 0.09 |
-| 0.22  | 0.74 | 2 | 46.3 ± 1.2 | 47.06 ± 2.86 | 1.64 ± 0.13 |
-| 0.22  | 0.74 | 3 | 35.5 ± 0.5 | 35.34 ± 2.20 | 0.45 ± 0.17 |
-| 1.50  | 0.90 | 1 | 72.5 ± 1.6 | 73.43 ± 4.35 | 1.28 ± 0.08 |
-| 1.50  | 0.90 | 2 | 56.0 ± 1.3 | 55.45 ± 3.34 | 0.98 ± 0.11 |
-| 1.50  | 0.90 | 3 | 39.1 ± 0.5 | 40.12 ± 2.47 | 2.61 ± 0.15 |
+# Clamp-on Ground Meter Readings
+
+| Turbine | $Z_{med_{\text{meter}}} (\Omega)$ | $Z_{med_{\text{LPM}}} (\Omega)$ [^1] | $APE_{\text{LPM}} (\%)$ [^1] |
+|---------|---------------------------------|--------------------------------------|----------------------------|
+| 1       | 37.8 $\pm$ 0.5                 | 38.50 $\pm$ 3.28                     | 1.85 $\pm$ 0.21            |
+| 2       | 40.5 $\pm$ 0.5                 | 41.22 $\pm$ 3.50                     | 1.79 $\pm$ 0.19            |
+| 3       | 37.5 $\pm$ 0.5                 | 38.10 $\pm$ 3.25                     | 1.60 $\pm$ 0.21            |
+
+[^1]: Details in [Section: Method2](#method2)
 
 ### Conclusion
 

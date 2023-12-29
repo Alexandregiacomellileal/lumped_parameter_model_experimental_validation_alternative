@@ -56,12 +56,12 @@ The obtained results demonstrate a robust agreement, with a Mean Absolute Percen
 | Turbine                           | 1      | 2      | 3      |
 |-----------------------------------|--------|--------|--------|
 | Metered Impedance $Z_{med_{\text{meter}}} (\Omega)$ | 37.8   | 40.5   | 37.5   |
-| EFM-Derived Impedance ($Z_{med_{\text{EFM}}} (\Omega)$)   | 38.18  | 41.04  | 37.71  |
-| LPM Impedance [$^{ref51}$] ($Z_{med_{\text{LPM}}} (\Omega)$) | 46.90  | 55.69  | 46.41  |
-| Proposed LPM Impedance ($Z_{med_{\text{LPM}}}^{Proposed} (\Omega)$) | 38.50  | 41.22  | 38.10  |
-| APE EFM ($APE_{\text{EFM}} (\%)$)           | 1.01   | 1.33   | 0.56   |
-| APE LPM [$^{ref51}$] ($APE_{\text{LPM}} (\%)$)  | 24.08  | 37.52  | 23.77  |
-| Proposed APE LPM ($APE_{\text{LPM}}^{Proposed} (\%)$) | 1.85   | 1.79   | 1.60   |
+| EFM-Derived Impedance $Z_{med_{\text{EFM}}} (\Omega)$   | 38.18  | 41.04  | 37.71  |
+| LPM Impedance [$^{ref51}$] ($Z_{med_{\text{LPM}}} (\Omega)$ | 46.90  | 55.69  | 46.41  |
+| Proposed LPM Impedance $Z_{med_{\text{LPM}}}^{Proposed} (\Omega)$ | 38.50  | 41.22  | 38.10  |
+| APE EFM $APE_{\text{EFM}} (\%)$           | 1.01   | 1.33   | 0.56   |
+| APE LPM [$^{ref51}$] $APE_{\text{LPM}} (\%)$  | 24.08  | 37.52  | 23.77  |
+| Proposed APE LPM $APE_{\text{LPM}}^{Proposed} (\%)$ | 1.85   | 1.79   | 1.60   |
 
 
 

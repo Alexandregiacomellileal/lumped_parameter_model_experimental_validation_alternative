@@ -44,7 +44,7 @@ The obtained results demonstrate a robust agreement, with a Mean Absolute Percen
 
 # Clamp-on Ground Meter Readings
 
-| Turbine | $Z_{med_{\text{meter}}} (\Omega)$ | $Z_{med_{\text{LPM}}} (\Omega)$ [^1] | $APE_{\text{LPM}} (%) $ [^1] |
+| Turbine | $Z_{med_{\text{meter}}} (\Omega)$ | $Z_{med_{\text{LPM}}} (\Omega)$ [^1] | $APE_{\text{LPM}} (%)$ [^1] |
 |---------|---------------------------------|--------------------------------------|----------------------------|
 | 1       | 37.8 $\pm$ 0.5                 | 38.50 $\pm$ 3.28                     | 1.85 $\pm$ 0.21            |
 | 2       | 40.5 $\pm$ 0.5                 | 41.22 $\pm$ 3.50                     | 1.79 $\pm$ 0.19            |

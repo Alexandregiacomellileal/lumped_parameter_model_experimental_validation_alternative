@@ -1,6 +1,7 @@
 ## Lumped Parameter Model Experimental Validation
 
-![fig100](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation/assets/96079504/ba2851b3-8f18-4c76-a4f1-d1ad3feacb9d)
+![reduce_scale_git](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation/assets/96079504/944fe6ab-ffac-4d92-acf9-e7ef5fc7e408)
+
 
 
 ### Overview
@@ -10,7 +11,7 @@ This repository contains the experimental validation details for the lumped para
 ### Experimental Setup
 
 
-<img src="https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation/blob/main/assets/96079504/ba2851b3-8f18-4c76-a4f1-d1ad3feacb9d" alt="fig100" width="50%" height="50%">
+![fig100](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation/assets/96079504/ba2851b3-8f18-4c76-a4f1-d1ad3feacb9d)
 
 
 

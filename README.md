@@ -10,7 +10,7 @@ This repository contains the experimental validation details for the lumped para
 
 ### Experimental Setup
 
-<img src="https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation/assets/96079504/ba2851b3-8f18-4c76-a4f1-d1ad3feacb9d" width="350" height="300">
+<img src="https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation/assets/96079504/ba2851b3-8f18-4c76-a4f1-d1ad3feacb9d" width="400" height="300">
 
 To validate the lumped parameter model introduced in Section 2.2 of the associated research paper, experiments were conducted using a scaled-down multi-grounded system. The system consisted of three 1.5 m rods spaced 7.5 m apart, interconnected to a 15 m horizontal electrode. Each copper rod symbolized a turbine grounding, boasting a cross-sectional area of 126 mm², while the copper horizontal electrode had a cross-sectional area of 35 mm².
 
@@ -53,7 +53,7 @@ The apparent resistivity observed by the horizontal electrode is determined by a
 As per Section 2.2 of the associated research paper, the parameter $k$ was estimated to be 0.74 for an $s$ value of 0.22 m and 0.90 for an $s$ value of 1.5 m.
 The COMSOL models used by the authors are attached and named **rod_1.5_he_k.mph** and **vrod_1.5_two_sphere_k.mph**.
 
-<img src="https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation/assets/96079504/318df15d-9548-466b-99aa-913d0601df30" width="350" height="300">
+<img src="https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation/assets/96079504/318df15d-9548-466b-99aa-913d0601df30" width="400" height="300">
 
 ### Results
 

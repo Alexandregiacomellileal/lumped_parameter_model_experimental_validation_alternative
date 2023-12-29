@@ -24,13 +24,16 @@ The electrical circuit for the measurements was established and simulated in ATP
 
 ### Measuring Apparent Resistivities
 
-The apparent resistivities of the rod $\rho<sub>a</sub>^{WTG}$ is calculated as follows:
+The apparent resistivities of the turbines $\rho_a^{turbine}$ is calculated as follows:
+
+$\ \rho_a = 2 \ \pi \ r \ R_{FoP}, \Omega \$
+
 Where:
 - $\rho_a^{rod}$ represents the apparent resistivity observed by the rod ($\Omega \cdot \text{m}$),
 - $l_{rod}$ is the rod's length (m),
 - $a_{rod}$ is the rod's radius (m).
 - 
-The apparent resistivity for the cylinder electrodes was estimated at 81.1, 99.3, and 80.1 Ω · m. Correspondingly, the apparent resistivity for the horizontal electrode sections was recorded at 90.2 and 89.7 Ω·m. The electrode’s apparent resistivity values were determined using $\ \rho_a = 2 \ \pi \ r \ R_{FoP}, \Omega \$, incorporating the grounding resistance of the electrodes estimated through the low-frequency FOP method. The equipment used was the digital earth meter MTR-1522. The instrument resolution is 0.01 Ω, and its accuracy is ± (2.0% + 20 dig).
+The apparent resistivity for the cylinder electrodes was estimated at 81.1, 99.3, and 80.1 Ω · m. Correspondingly, the apparent resistivity for the horizontal electrode sections was recorded at 90.2 and 89.7 Ω·m. The electrode’s apparent resistivity values were determined using , incorporating the grounding resistance of the electrodes estimated through the low-frequency FOP method. The equipment used was the digital earth meter MTR-1522. The instrument resolution is 0.01 Ω, and its accuracy is ± (2.0% + 20 dig).
 
 
 ### $k$ Parameter Estimation

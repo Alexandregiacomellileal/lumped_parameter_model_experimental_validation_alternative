@@ -55,10 +55,10 @@ The obtained results demonstrate a robust agreement, with a Mean Absolute Percen
 
 | Turbine                           | 1      | 2      | 3      |
 |-----------------------------------|--------|--------|--------|
-| $Z_{med_{\text{meter}}} (\Omega)$ | 37.8   | 40.5   | 37.5   |
-| $Z_{med_{\text{EFM}}} (\Omega)$   | 38.18  | 41.04  | 37.71  |
-| $Z_{med_{\text{LPM}}}^{[33]} (\Omega)$ | 46.90  | 55.69  | 46.41  |
-| $Z_{med_{\text{LPM}}}^{Proposed} (\Omega)$ | 38.50  | 41.22  | 38.10  |
+| $Zmed_{{\text{meter}}} (\Omega)$ | 37.8   | 40.5   | 37.5   |
+| $Zmed_{{\text{EFM}}} (\Omega)$   | 38.18  | 41.04  | 37.71  |
+| $Zmed_{{\text{LPM}}}^{[33]} (\Omega)$ | 46.90  | 55.69  | 46.41  |
+| $Zmed_{{\text{LPM}}}^{Proposed} (\Omega)$ | 38.50  | 41.22  | 38.10  |
 | $APE_{\text{EFM}}(percent)$           | 1.01   | 1.33   | 0.56   |
 | $APE_{\text{LPM}}^{[33]}(percent)$  | 24.08  | 37.52  | 23.77  |
 | $APE_{\text{LPM}}^{Proposed}(percent)$ | 1.85   | 1.79   | 1.60   |

@@ -36,7 +36,7 @@ In this study, the apparent resistivity for the cylinder electrodes was determin
 
 The electrical circuit for these measurements was established and simulated to acquire the meter readings $Zmed_{\text{LPM}}$ following the procedures detailed in Section 2.2 of the associated research paper, the parameter k was estimated to be 0.69 for an s value of 28.5 cm. The COMSOL models used by the authors are attached and named **turbine_he_k.mph** and **turbine_two_sphere_k.mph**.
 
-| $s (m)$ | $Z_{\text{med\_short}}$ | $Z_{\text{med\_inf}}$ | $k$             |
+| $s (m)$ | ${Zmed}_{lumped}^{short}$ | ${Zmed}_{wire}^\infty$ | $k$             |
 |---------|------------------------|-----------------------|-----------------|
 | 0.285   | 41.63                  | 60.625                | 0.686597938     |
 

@@ -54,15 +54,14 @@ The apparent resistivity observed by the horizontal electrode is determined by a
 
 ### Parameter Estimation
 
-As per paper, the parameter $k$ was estimated to be 0.74 for an $s$ value of 0.22 m and 0.90 for an $s$ value of 1.5 m.
+As per Section 2.2 of the associated research paper, the parameter $k$ was estimated to be 0.74 for an $s$ value of 0.22 m and 0.90 for an $s$ value of 1.5 m.
 The COMSOL models used by the authors are attached and named **rod_1.5_he_k.mph** and **vrod_1.5_two_sphere_k.mph**.
 
 ![image](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation/assets/96079504/9b753fc9-b4f2-4824-9f7d-8f5deddb6e3a)
 
 ### Results
 
-The obtained results demonstrate a robust agreement, with a Mean Absolute Percentage Error of 1.39 ± 0.12%, between the values registered by the clamp-on meter and those predicted by the proposed equivalent electrical circuit model. The complete results obtained as well as the input parameters of the measurement circuits simulated in ATP are in spreadsheet 
-**validação_reduce_scale_081123.xlsx**.
+The obtained results demonstrate a robust agreement, with a Mean Absolute Percentage Error of 1.39 ± 0.12%, between the values registered by the clamp-on meter and those predicted by the proposed equivalent electrical circuit model. The complete results obtained as well as the input parameters of the measurement circuits simulated in ATP are in spreadsheet **validação_reduce_scale_081123.xlsx**.
 
 ### Table of Results
 

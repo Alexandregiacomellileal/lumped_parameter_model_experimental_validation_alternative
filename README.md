@@ -26,7 +26,7 @@ Measurements Zmed <sub>meter</sub> were conducted using the UT-278A clamp-on met
 
 ### Electrical Circuit and Grounding Resistance Calculation
 
-The electrical circuit for the measurements was established and simulated in ATP to acquire the meter readings Zmed<sub>LPM</sub> following the procedures detailed in Section 2.2 of the associated research paper. The ATP files used by the authors are attached and named **23_model.acp**, ***23_model_rod1.acp**, **23_model_rod3.acp**, **celulapi_COMSOL_k_RLC.acp**, **celulapi_COMSOL_k_RLC_rod1.acp**, and **celulapi_COMSOL_k_RLC_rod3.acp**. Notably, the approach used to calculate the grounding resistance of the rod differs, utilizing the Sunde formula. This formula is particularly suitable for scenarios where cylindrical electrodes are vertically installed, especially when their length significantly exceeds their cross-section. 
+The electrical circuit for the measurements was established and simulated in ATP to acquire the meter readings Zmed<sub>LPM</sub> following the procedures detailed in Section 2.2 of the associated research paper. The ATP files used by the authors are attached and named **23_model.acp**, **23_model_rod1.acp**, **23_model_rod3.acp**, **celulapi_COMSOL_k_RLC.acp**, **celulapi_COMSOL_k_RLC_rod1.acp**, and **celulapi_COMSOL_k_RLC_rod3.acp**. Notably, the approach used to calculate the grounding resistance of the rod differs, utilizing the Sunde formula. This formula is particularly suitable for scenarios where cylindrical electrodes are vertically installed, especially when their length significantly exceeds their cross-section. 
 
 The grounding resistance of the rod R<sub>rod</sub> is calculated as follows:
 
@@ -53,7 +53,7 @@ The apparent resistivity observed by the horizontal electrode is determined by a
 ### Parameter Estimation
 
 As per paper, the parameter $k$ was estimated to be 0.74 for an $s$ value of 0.22 m and 0.90 for an $s$ value of 1.5 m.
-The COMSOL models used by the authors are attached and named **rod_1.5_he_k.mph**v and **vrod_1.5_two_sphere_k.mph****.
+The COMSOL models used by the authors are attached and named **rod_1.5_he_k.mph** and **vrod_1.5_two_sphere_k.mph**.
 
 ![image](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation/assets/96079504/9b753fc9-b4f2-4824-9f7d-8f5deddb6e3a)
 

@@ -42,11 +42,8 @@ Where:
 
 ### Driven Rod Method for Measuring Apparent Resistivities
 
-The apparent resistivities $\rho_a^{rod}$ are measured using the driven rod method with the low-frequency Fall-of-Potential method. The equipment used for these measurements is the digital earth meter MTR-1522. The instrument resolution is 0.01 Ω, and its accuracy is ± (2.0% + 20 dig).
+The apparent resistivity for the cylinder electrodes was estimated at 81.1, 99.3, and 80.1 Ω · m. Correspondingly, the apparent resistivity for the horizontal electrode sections was recorded at 90.2 and 89.7 Ω·m. The electrode’s apparent resistivity values were determined using $\ R_{\text{rod}} = \frac{\rho_a^{\text{rod}}}{2 \pi l_{\text{rod}}} \left( \ln\left(\frac{4l_{\text{rod}}}{a_{\text{rod}}}\right) - 1 \right) \, \Omega \$, incorporating the grounding resistance of the electrodes estimated through the low-frequency FOP method. The equipment used was the digital earth meter MTR-1522. The instrument resolution is 0.01 Ω, and its accuracy is ± (2.0% + 20 dig).
 
-The apparent resistivity observed by the horizontal electrode is determined by averaging the apparent resistivities observed by the rods. This observation is cross-validated using the Fall-of-Potential method.
-
-The apparent resistivity for the cylinder electrodes was estimated at 115.8, 86.0, and 56.2 $\Omega \cdot m$. Correspondingly, the apparent resistivity for the horizontal electrode sections was recorded at 100.9 and 71.1 $\Omega \cdot m$.
 
 ### $k$ Parameter Estimation
 

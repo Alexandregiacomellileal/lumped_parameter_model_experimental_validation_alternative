@@ -58,10 +58,10 @@ The obtained results demonstrate a robust agreement, with a Mean Absolute Percen
 | $Zmed_{{\text{meter}}} (\Omega)$ | 37.8   | 40.5   | 37.5   |
 | $Zmed_{{\text{EFM}}} (\Omega)$   | 38.18  | 41.04  | 37.71  |
 | $Zmed_{{\text{LPM}}} (\Omega)$ [^1]| 46.90  | 55.69  | 46.41  |
-| $Zmed_{{\text{LPM}}} Proposed (\Omega)$ | 38.50  | 41.22  | 38.10  |
+| $Zmed_{{\text{LPM}}}(\Omega)$ \ Proposed | 38.50  | 41.22  | 38.10  |
 | $APE_{\text{EFM}}(percent)$           | 1.01   | 1.33   | 0.56   |
 | $APE_{\text{LPM}}(percent)$ [^1] | 24.08  | 37.52  | 23.77  |
-| $APE_{\text{LPM}} Proposed (percent)$ | 1.85   | 1.79   | 1.60   |
+| $APE_{\text{LPM}}(percent)$ \ Proposed| 1.85   | 1.79   | 1.60   |
 
 [^1]: A.G. Leal, H.L. L ́opez-Salamanca, A.E. Lazzaretti, D.C. Marcilio, A new approach for ground resistance measurements in onshore wind farms based on clamp-on meters and artificial neural network, Electric Power Systems Research. 210 (2022) 108161.
 

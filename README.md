@@ -24,15 +24,11 @@ The electrical circuit for the measurements was established and simulated in ATP
 
 ### Measuring Apparent Resistivities
 
-The apparent resistivities of the turbines $\rho_a^{wtg}$ is calculated as follows:
+The apparent resistivity ($\rho_a^{wtg}$) of the turbines is computed using the formula $\ \rho_a^{wtg} = 2 \ \pi \ r_{eq}^{wtg} \ R_{FoP}^{wtg} \ (\Omega) $, where $R_{FoP}^{wtg}$ represents the grounding resistance measured by the Low-frequency Fall-of-Potential Method ($\Omega \cdot \text{m}$), and $r_{eq}^{wtg}$ is the radius of a semi-spherical electrode with an equivalent ground contact area as the turbine foundation (m).
 
-$\ \rho_a^{wtg} = 2 \ \pi \ r_{eq}^{wtg} \ R_{FoP}^{wtg}, \ \Omega \$
+The apparent resistivity observed by the horizontal electrode is determined by averaging the apparent resistivities of the turbines in their extremities, and this is cross-validated using the Low-frequency Fall-of-Potential method.
 
-Where:
-- $R_{FoP}^{wtg}$ represents the grouding resistance mesused by Low-frequency Fall-of_potential Method ($\Omega \cdot \text{m}$)
-- $r_{eq}^{wtg}$ is the radius of a semi-spherical electrode with the same ground contact area as the cylinder, i.e., the turbine foundation (m),
- 
-The apparent resistivity for the cylinder electrodes was estimated at 81.1, 99.3, and 80.1 Ω · m. Correspondingly, the apparent resistivity for the horizontal electrode sections was recorded at 90.2 and 89.7 Ω·m. The electrode’s apparent resistivity values were determined using , incorporating the grounding resistance of the electrodes estimated through the low-frequency FOP method. The equipment used was the digital earth meter MTR-1522. The instrument resolution is 0.01 Ω, and its accuracy is ± (2.0% + 20 dig).
+In this study, the apparent resistivity for the cylinder electrodes was determined to be 81.1, 99.3, and 80.1 Ω·m, while the apparent resistivity for the horizontal electrode sections was recorded at 90.2 and 89.7 Ω·m. The measurements were conducted using the digital earth meter MTR-1522, which has a resolution of 0.01 Ω and an accuracy of ± (2.0% + 20 digits).
 
 
 ### $k$ Parameter Estimation

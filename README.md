@@ -51,7 +51,8 @@ The apparent resistivity observed by the horizontal electrode is determined by a
 As per paper, the parameter $k$ was estimated to be 0.74 for an $s$ value of 0.22 m and 0.90 for an $s$ value of 1.5 m.
 The COMSOL models used by the authors are attached and named rod_1.5_he_k.mph and rod_1.5_two_sphere_k.mph.
 
-![image](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation/assets/96079504/5fc12ee5-8aab-4a55-ba1a-1e995c7d91e2)
+![image](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation/assets/96079504/39b1aed8-c737-45ce-8516-070bc67c6ec1)
+
 
 
 ### Results

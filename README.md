@@ -60,7 +60,7 @@ The obtained results demonstrate a robust agreement, with a Mean Absolute Percen
 | $Z_{med_{\text{LPM}}}^{[33]} (\Omega)$ | 46.90  | 55.69  | 46.41  |
 | $Z_{med_{\text{LPM}}}^{Proposed} (\Omega)$ | 38.50  | 41.22  | 38.10  |
 | $APE_{\text{EFM}} (\%)$           | 1.01   | 1.33   | 0.56   |
-| $APE_{\text{LPM}}^^{[33]} (\%)$  | 24.08  | 37.52  | 23.77  |
+| $APE_{\text{LPM}}^{[33]} [\%]$  | 24.08  | 37.52  | 23.77  |
 | $APE_{\text{LPM}}^{Proposed} (\%)$ | 1.85   | 1.79   | 1.60   |
 
 

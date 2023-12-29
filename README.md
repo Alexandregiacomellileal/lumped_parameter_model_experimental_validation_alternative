@@ -44,7 +44,7 @@ Where:
 
 ### Driven Rod Method for Measuring Apparent Resistivities
 
-The apparent resistivities $\rho_a^{rod}$ are measured using the driven rod method with the low-frequency Fall-of-Potential method. The equipment used for these measurements is the digital earth meter MTR-1522.
+The apparent resistivities $\rho_a^{rod}$ are measured using the driven rod method with the low-frequency Fall-of-Potential method. The equipment used for these measurements is the digital earth meter MTR-1522. The instrument resolution is \(0.01 \, \Omega\), and its accuracy is $\pm \ (2.0 \% + 20 dig)$. An error propagation study was carried out to address measurement uncertainties.
 
 The apparent resistivity observed by the horizontal electrode is determined by averaging the apparent resistivities observed by the rods. This observation is cross-validated using the Fall-of-Potential method.
 

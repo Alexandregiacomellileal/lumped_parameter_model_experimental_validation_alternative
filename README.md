@@ -24,9 +24,9 @@ The electrical circuit for the measurements was established and simulated in ATP
 
 ### Measuring Apparent Resistivities
 
-The apparent resistivities of the turbines $\rho_a^{turbine}$ is calculated as follows:
+The apparent resistivities of the turbines $\rho_a^{wtg}$ is calculated as follows:
 
-$\ \rho_a = 2 \ \pi \ r \ R_{FoP}, \Omega \$
+$\ \rho_a^{wtg} = 2 \ \pi \ r_{spherical} \ R_{FoP}^{wtg}, \Omega \$
 
 Where:
 - $\rho_a^{rod}$ represents the apparent resistivity observed by the rod ($\Omega \cdot \text{m}$),

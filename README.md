@@ -33,7 +33,7 @@ The apparent resistivity ($\rho_a^{he}$) observed by the horizontal electrode is
 In this study, the apparent resistivity for the cylinder electrodes was determined to be 81.1, 99.3, and 80.1 Ω·m, while the apparent resistivity for the horizontal electrode sections was recorded at 90.2 and 89.7 Ω·m. The measurements were conducted using the digital earth meter MTR-1522, which has a resolution of 0.01 Ω and an accuracy of ± (2.0% + 20 digits).
 
 
-### $k$ Parameter Estimation
+### $k$ Parameter Estimation - In the search to compensate for the effects of mutual coupling in measurements
 
 According to Section 3.1 of the associated research article, the parameter k was estimated to be 0.69 for an s value of 28.5 cm. The COMSOL models for k estimation are attached and named *turbine_he_k.mph* and *turbine_two_sphere_k.mph*. The following figure displays images generated through the COMSOL Multiphysics computer simulation software. The image above the figure is associated with the estimation of $Zmed_{lumped}^{short} (\Omega)$ using the COMSOL model *turbine_two_sphere_k.mph*, while the one below is related to the estimation of $Zmed_{wire}^\infty (\Omega)$ using *turbine_he_k.mph*. 
 

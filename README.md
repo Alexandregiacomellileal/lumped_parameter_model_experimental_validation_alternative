@@ -9,8 +9,6 @@ This repository contains the experimental validation details for the lumped para
 
 ### Experimental Setup
 
-<img src="https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/2ae43894-9204-4769-99b4-26f66578caee" width="400" height="350">
-
 ![experiment_git_hub (003)](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/f7438e63-87e8-46c1-b92a-06f08a79edc4)
 
 

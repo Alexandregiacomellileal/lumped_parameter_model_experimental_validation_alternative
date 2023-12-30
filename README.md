@@ -42,7 +42,7 @@ According to Section 3.1 of the associated research article, the parameter k was
 | 0.285   | 41.630                  | 60.625                | 0.687     |
 
 
-<img width="80" alt="image" src="https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/2938fcc7-46f9-44c2-b66f-ac28b87500c0">
+![COMSOL_top](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/c493baec-a274-4f0f-bf6e-d54e2dab288b)
 
 ### Results
 

@@ -43,7 +43,7 @@ According to Section 2.2 of the associated research article, the parameter k was
 
 ### Results
 
-All simulation input parameters for every ground resistance measurement circuit, along with their corresponding results, are accessible in the Excel file named **reduce_scale_251223.xlsx**. The obtained results demonstrate a robust agreement, with a Mean Absolute Percentage Error of of 1.75 ± 0.20 %, between the values registered by the clamp-on meter and those predicted by the proposed equivalent electrical circuit model. It is important to mention that an measurement error propagation study was carried out to address measurement uncertainties. 
+All simulation input parameters for every ground resistance measurement circuit, along with their corresponding results, are accessible in the Excel file named **reduce_scale_251223.xlsx**. The obtained results demonstrate a robust agreement, with a Mean Absolute Percentage Error of of 1.75 ± 0.20 %, between the values registered by the clamp-on meter and those predicted by the proposed equivalent electrical circuit model. It is important to mention that an error propagation study was carried out to address measurement uncertainties. 
 
 ### Table of Results
 

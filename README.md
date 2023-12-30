@@ -22,7 +22,7 @@ Measurements Zmed <sub>meter</sub> were conducted using the UT-278A clamp-on met
 
 ### Electrical Circuit and Grounding Resistance Calculation
 
-The electrical circuit for the measurements was established and simulated in ATP to acquire the meter readings Zmed<sub>LPM</sub> following the procedures detailed in Section 2.2 of the associated research paper. Furthermore, the lumped parameter modeling used in [our previous work](https://github.com/Alexandregiacomellileal/A-New-Approach-Towards-Error-Reduction-in-Ground-Resistance-Measurements-Based-on-Clamp-on-Method) [^1] was also established and simulated in ATP for comparative purposes. The ATP files used by the authors are attached and named *23_model.acp*, **23_model_rod1.acp**, **23_model_rod3.acp**, **celulapi_COMSOL_k_RLC.acp**, **celulapi_COMSOL_k_RLC_rod1.acp**, and **celulapi_COMSOL_k_RLC_rod3.acp**. 
+The electrical circuit for the measurements was established and simulated in ATP to acquire the meter readings Zmed<sub>LPM</sub> following the procedures detailed in Section 2.2 of the associated research paper. Furthermore, the lumped parameter modeling used in [our previous work](https://github.com/Alexandregiacomellileal/A-New-Approach-Towards-Error-Reduction-in-Ground-Resistance-Measurements-Based-on-Clamp-on-Method) [^1] was also established and simulated in ATP for comparative purposes. The ATP files used by the authors are attached and named *23_model.acp*, *23_model_rod1.acp*, *23_model_rod3.acp*, *celulapi_COMSOL_k_RLC.acp**, *celulapi_COMSOL_k_RLC_rod1.acp*, and *celulapi_COMSOL_k_RLC_rod3.acp*. 
 
 ### Measuring Apparent Resistivities
 
@@ -35,7 +35,7 @@ In this study, the apparent resistivity for the cylinder electrodes was determin
 
 ### $k$ Parameter Estimation
 
-According to Section 3.1 of the associated research article, the parameter k was estimated to be 0.69 for an s value of 28.5 cm. The COMSOL models for k estimation are attached and named **turbine_he_k.mph** and **turbine_two_sphere_k.mph**.
+According to Section 3.1 of the associated research article, the parameter k was estimated to be 0.69 for an s value of 28.5 cm. The COMSOL models for k estimation are attached and named *turbine_he_k.mph** and *turbine_two_sphere_k.mph*.
 
 | $s \ (m)$ | ${Zmed}_{lumped}^{short} (\Omega) $ | ${Zmed}_{wire}^\infty (\Omega)$| $k$             |
 |---------|------------------------|-----------------------|-----------------|
@@ -44,7 +44,7 @@ According to Section 3.1 of the associated research article, the parameter k was
 
 ### Results
 
-All simulation input parameters for every ground resistance measurement circuit, along with their corresponding results, are accessible in the Excel file named **reduce_scale_251223.xlsx**. The obtained results demonstrate a robust agreement, with a Mean Absolute Percentage Error of of 1.75 ± 0.20 %, between the values registered by the clamp-on meter and those predicted by the proposed equivalent electrical circuit model. It is important to mention that an error propagation study was carried out to address measurement uncertainties. 
+All simulation input parameters for every ground resistance measurement circuit, along with their corresponding results, are accessible in the Excel file named *reduce_scale_251223.xlsx*. The obtained results demonstrate a robust agreement, with a Mean Absolute Percentage Error of of 1.75 ± 0.20 %, between the values registered by the clamp-on meter and those predicted by the proposed equivalent electrical circuit model. It is important to mention that an error propagation study was carried out to address measurement uncertainties. 
 
 ### Table of Results
 

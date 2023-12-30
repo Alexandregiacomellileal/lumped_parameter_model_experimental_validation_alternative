@@ -35,7 +35,7 @@ In this study, the apparent resistivity for the cylinder electrodes was determin
 
 ### $k$ Parameter Estimation
 
-According to Section 3.1 of the associated research article, the parameter k was estimated to be 0.69 for an s value of 28.5 cm. The COMSOL models for k estimation are attached and named *turbine_he_k.mph* and *turbine_two_sphere_k.mph*. The following figure displays images generated through the COMSOL Multiphysics computer simulation software. The image above the figure is associated with the estimation of ${Zmed}_{lumped}^{short} (\Omega) $ using the COMSOL model *turbine_two_sphere_k.mph*, while the one below is related to the estimation of ${Zmed}_{wire}^\infty (\Omega) using *turbine_he_k.mph* .
+According to Section 3.1 of the associated research article, the parameter k was estimated to be 0.69 for an s value of 28.5 cm. The COMSOL models for k estimation are attached and named *turbine_he_k.mph* and *turbine_two_sphere_k.mph*. The following figure displays images generated through the COMSOL Multiphysics computer simulation software. The image above the figure is associated with the estimation of $Zmed_lumped^{short} (\Omega)$ using the COMSOL model *turbine_two_sphere_k.mph*, while the one below is related to the estimation of $Zmed_wire^\infty (\Omega)$ using *turbine_he_k.mph* .
 
 | $s \ (m)$ | ${Zmed}_{lumped}^{short} (\Omega) $ | ${Zmed}_{wire}^\infty (\Omega)$| $k$             |
 |---------|------------------------|-----------------------|-----------------|

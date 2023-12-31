@@ -48,6 +48,9 @@ $Zmed_{wire}^\infty (\Omega)$ is the clamp-on reading taken with the turbine gro
 
 ![COMSOL_top](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/511ee963-843b-4130-85e0-bb90eaf88c03)
 
+
+![image](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/b3a3e008-5941-4f07-a3b4-39457339133b)
+
 ### Results
 
 All simulation input parameters for every ground resistance measurement circuit, along with their corresponding results, are accessible in the Excel file named *reduce_scale_251223.xlsx*. The obtained results demonstrate a robust agreement, with a Mean Absolute Percentage Error of of (1.75 ± 0.20) %, between the values registered by the clamp-on meter and those predicted by the proposed equivalent electrical circuit model. It is important to mention that an error propagation study was carried out to address measurement uncertainties. 

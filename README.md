@@ -9,6 +9,7 @@ This repository contains the experimental validation details for the lumped para
 
 ### Experimental Setup
 
+**Figure 1**
 ![experiment_git_hub (003)](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/f7438e63-87e8-46c1-b92a-06f08a79edc4)
 
 The proposed lumped parameter model underwent experimental validation using a reduced-scale model of the grounding system detailed in Section 2.2 of the associated research paper. The grounding system was constructed with three 4 mm thick steel cylinders spaced 7.5 m apart, interconnected to a 15 m horizontal electrode. Each steel cylinder, symbolizing a turbine grounding, boasted a radius of 19.7 cm and a height of 43 cm, while the copper horizontal electrode had a cross-sectional area of 35 $mm^2$.
@@ -36,20 +37,21 @@ In this study, the apparent resistivity for the cylinder electrodes was determin
 
 In our quest to mitigate the impact of mutual coupling in measurements and address distortions arising from the utilization of an equivalent semi-spherical representation of the horizontal electrode, we are engaged in refining the estimation process. Our focus is on enhancing accuracy and reliability by systematically assessing and adjusting the parameters involved in the measurement system.
 
-According to Section 3.1 of the associated research article, the parameter k was estimated to be 0.69 for an s value of 28.5 cm. The COMSOL models for k estimation are attached and named *turbine_he_k.mph* and *turbine_two_sphere_k.mph*. The following figure displays images generated through the COMSOL Multiphysics computer simulation software. The image above the figure is associated with the estimation of $Zmed_{lumped}^{short} (\Omega)$ using the COMSOL model *turbine_two_sphere_k.mph*, while the one below is related to the estimation of $Zmed_{wire}^\infty (\Omega)$ using *turbine_he_k.mph*. 
+According to Section 3.1 of the associated research article, the parameter k was estimated to be 0.69 for an s value of 28.5 cm. The COMSOL models for k estimation are attached and named *turbine_he_k.mph* and *turbine_two_sphere_k.mph*. Figure 2 displays images generated through the COMSOL Multiphysics computer simulation software. The image above the Figure 2 is associated with the estimation of $Zmed_{lumped}^{short} (\Omega)$ using the COMSOL model *turbine_two_sphere_k.mph*, while the one below is related to the estimation of $Zmed_{wire}^\infty (\Omega)$ using *turbine_he_k.mph*. 
 
 $Zmed_{wire}^\infty (\Omega)$ is the clamp-on reading taken with the turbine grounding and the horizontal electrode separated by a large distance, in a such way that the mutual couplings between these elements can be considered negligible. On the other hand, the $Zmed_{lumped}^{short} (\Omega)$ is the clamp-on reading taken with the turbine grounding and the horizontal electrode separated by a smaller distance $s$ and with the horizontal electrode being represented by two semi-spherical electrodes spaced so that one does not be influenced by the other. For a single lumped parameter cell representing the horizontal electrode, each semi-spherical electrode must have twice its grounding resistance. The table below displays results obtained at an average soil resistivity of 86.8 $(\Omega.m)$. Notably, the COMSOL simulation results reveal that the parameter $k$ remains consistent for a specified value of $s$ across a wide range of soil resistivities, spanning from 20 to 10240 $(\Omega.m)$.
 
-### Table k tuning
+**Table k tuning**
 | $s \ (m)$ | $\rho \ (\Omega.m)$| ${Zmed}_{lumped}^{short} (\Omega) $ | ${Zmed}_{wire}^\infty (\Omega)$| $k$             |
 |---------|---------|------------------------|-----------------------|-----------------|
 | 0.285   | 86.8  | 41.624                 | 60.625                | 0.687     |
 
-
+**Figure 2**
 ![COMSOL_top](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/511ee963-843b-4130-85e0-bb90eaf88c03)
 
-In instances where simulation software is unavailable for researching the parameter $k$ in the measuring circuit, the attached graph serves as a valuable tool for estimating it according to the distance $s$ between the grounding elements.
+In instances where simulation software is unavailable for researching the parameter $k$ in the measuring circuit, the attached graph of the Figure 3 serves as a valuable tool for estimating it according to the distance $s$ between the grounding elements.
 
+**Figure 3**
 <p align="center">
 <img src="https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/b3a3e008-5941-4f07-a3b4-39457339133b" width="500" height="375">
 </p>

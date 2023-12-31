@@ -52,7 +52,7 @@ Table 1 displays results obtained at an average soil resistivity of 86.8 $(\Omeg
 In instances where simulation software is unavailable for researching the parameter $k$ in the measuring circuit, the attached graph of the Figure 3 serves as a valuable tool for estimating it according to the distance $s$ between the grounding elements.
 
 **Figure 3**                   
-<img src="!https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/40b64cc0-223e-4efd-970d-2dbad4486aae" width="500" height="375">
+<imgsrc="https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/40b64cc0-223e-4efd-970d-2dbad4486aae" width="500" height="375">
 
 ### Results
 

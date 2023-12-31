@@ -49,7 +49,7 @@ Table 1 displays results obtained at an average soil resistivity of 86.8 $(\Omeg
 |---------|---------|------------------------|-----------------------|-----------------|
 | 0.285   | 86.8  | 41.624                 | 60.625                | 0.687     |
 
-In instances where simulation software is unavailable for researching the parameter $k$ in the measuring circuit, the attached graph of Figure 3 serves as a valuable tool for estimating it according to the distance $s$ between the grounding elements. This estimation is especially pertinent in cases where the grounding configuration includes turbine foundations in the cylindrical format, constructed with reinforced concrete, and horizontal electrodes.
+In instances where simulation software is unavailable for researching the parameter $k$ in the measuring circuit, the attached graph of Figure 3 serves as a valuable tool for estimating it according to the distance $s$ between the grounding elements. This estimate is especially pertinent in cases where the grounding configuration includes cylindrical-shaped turbine foundations with multiple driven pillars, constructed of reinforced concrete, and horizontal electrodes.
 
 **Figure 3**                   
 

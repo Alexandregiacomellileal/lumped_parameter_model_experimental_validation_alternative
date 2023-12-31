@@ -53,6 +53,7 @@ In instances where simulation software is unavailable for researching the parame
 
 **Figure 3**
 <p align="center">
+**Figure 3**
 <img src="https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/b3a3e008-5941-4f07-a3b4-39457339133b" width="500" height="375">
 </p>
 

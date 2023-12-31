@@ -15,6 +15,9 @@ https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_v
 
 https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/blob/main/celulapi_COMSOL_k_RLC.acp
 
+https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/blob/main/celulapi_COMSOL_k_RLC_rod1.acp
+
+
 
 
 

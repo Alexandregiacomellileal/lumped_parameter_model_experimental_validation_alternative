@@ -44,7 +44,7 @@ $Zmed_{wire}^\infty (\Omega)$ is the clamp-on reading taken with the turbine gro
 | 0.285   | 86.8  | 41.624                 | 60.625                | 0.687     |
 
 
-![COMSOL_top](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/c493baec-a274-4f0f-bf6e-d54e2dab288b)
+![COMSOL_top](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/511ee963-843b-4130-85e0-bb90eaf88c03)
 
 ### Results
 

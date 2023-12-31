@@ -9,7 +9,7 @@ This repository contains the experimental validation details for the lumped para
 
 ### Experimental Setup
 
-![Figura 1](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/f7438e63-87e8-46c1-b92a-06f08a79edc4)
+(https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/f7438e63-87e8-46c1-b92a-06f08a79edc4) Figura 1
 
 The proposed lumped parameter model underwent experimental validation using a reduced-scale model of the grounding system detailed in Section 2.2 of the associated research paper. The grounding system was constructed with three 4 mm thick steel cylinders spaced 7.5 m apart, interconnected to a 15 m horizontal electrode. Each steel cylinder, symbolizing a turbine grounding, boasted a radius of 19.7 cm and a height of 43 cm, while the copper horizontal electrode had a cross-sectional area of 35 $mm^2$.
 

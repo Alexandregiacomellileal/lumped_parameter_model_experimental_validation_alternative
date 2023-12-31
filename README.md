@@ -39,9 +39,9 @@ According to Section 3.1 of the associated research article, the parameter k was
 
 $Zmed_{wire}^\infty (\Omega)$ is the clamp-on reading taken with the turbine grounding and the horizontal electrode separated by a large distance, in a such way that the mutual couplings between these elements can be considered negligible. On the other hand, the $Zmed_{lumped}^{short} (\Omega)$ is the clamp-on reading taken with the turbine grounding and the horizontal electrode separated by a smaller distance $s$ and with the horizontal electrode being represented by two semi-spherical electrodes spaced so that one does not be influenced by the other. For a single lumped parameter cell representing the horizontal electrode, each semi-spherical electrode must have twice its grounding resistance.
 
-| $s \ (m)$ | ${Zmed}_{lumped}^{short} (\Omega) $ | ${Zmed}_{wire}^\infty (\Omega)$| $k$             |
-|---------|------------------------|-----------------------|-----------------|
-| 0.285   | 41.630                  | 60.625                | 0.687     |
+| $s \ (m)$ | $\rho \ (\Omega.m)$| ${Zmed}_{lumped}^{short} (\Omega) $ | ${Zmed}_{wire}^\infty (\Omega)$| $k$             |
+|---------|---------|------------------------|-----------------------|-----------------|
+| 0.285   | 86.8  | 41.624                 | 60.625                | 0.687     |
 
 
 ![COMSOL_top](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/c493baec-a274-4f0f-bf6e-d54e2dab288b)

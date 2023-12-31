@@ -51,7 +51,7 @@ $Zmed_{wire}^\infty (\Omega)$ is the clamp-on reading taken with the turbine gro
 In instances where simulation software is unavailable for researching the parameter $k$ in the measuring circuit, the attached graph serves as a valuable tool for estimating it according to the distance $s$ between the grounding elements.
 
 <p align="center">
-<img src="https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/b3a3e008-5941-4f07-a3b4-39457339133b" width="400" height="300">
+<img src="https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/b3a3e008-5941-4f07-a3b4-39457339133b" width="800" height="600">
 </p>
 
 ### Results

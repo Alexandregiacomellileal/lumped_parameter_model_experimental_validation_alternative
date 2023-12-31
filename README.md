@@ -52,10 +52,8 @@ Table 1 displays results obtained at an average soil resistivity of 86.8 $(\Omeg
 In instances where simulation software is unavailable for researching the parameter $k$ in the measuring circuit, the attached graph of the Figure 3 serves as a valuable tool for estimating it according to the distance $s$ between the grounding elements.
 
 **Figure 3**                   
-![image](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/455f92dc-d9a0-45b9-a751-1336a39c9137)
 
 <img src="https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/455f92dc-d9a0-45b9-a751-1336a39c9137" width="500" height="375">
-
 
 ### Results
 
@@ -63,7 +61,7 @@ All simulation input parameters for every ground resistance measurement circuit,
 
 ### Table of Results
 
-#### Comparison between modeling and measurement results
+#### Table 2 - Comparison between modeling and measurement results
 
 | Turbine                           | 1      | 2      | 3      |
 |-----------------------------------|--------|--------|--------|
@@ -78,7 +76,7 @@ All simulation input parameters for every ground resistance measurement circuit,
 [^1]: A.G. Leal, H.L. L ́opez-Salamanca, A.E. Lazzaretti, D.C. Marcilio, A new approach for ground resistance measurements in onshore wind farms based on clamp-on meters and artificial neural network, Electric Power Systems Research. 210 (2022) 108161.
 
 
-#### Clamp-on meter readings - Final results including measurement error propagation study
+#### Table 3 - Clamp-on meter readings - Final results including measurement error propagation study
 
 | Turbine | $Zmed_{{\text{meter}}} (\Omega)$ | $Zmed_{{\text{LPM}}} (\Omega)$ | $APE_{\text{LPM}} (percent)$ |
 |---------|---------------------------------|--------------------------------------|----------------------------|

@@ -54,6 +54,8 @@ In instances where simulation software is unavailable for researching the parame
 **Figure 3**                   
 ![image](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/455f92dc-d9a0-45b9-a751-1336a39c9137)
 
+<img src="(https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation/assets/96079504/f3d72683-0fc8-4b29-bddf-039e2b4e0f16](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/455f92dc-d9a0-45b9-a751-1336a39c9137)" width="500" height="375">
+
 
 ### Results
 

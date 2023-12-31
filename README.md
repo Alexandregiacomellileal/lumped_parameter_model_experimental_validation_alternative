@@ -37,15 +37,15 @@ In our quest to mitigate the impact of mutual coupling in measurements and addre
 
 According to Section 3.1 of the associated research article, the parameter k was estimated to be 0.69 for an s value of 28.5 cm. The COMSOL models for k estimation are attached and named *turbine_he_k.mph* and *turbine_two_sphere_k.mph*. Figure 2 displays images generated through the COMSOL Multiphysics computer simulation software. The image above the Figure 2 is associated with the estimation of $Zmed_{lumped}^{short} (\Omega)$ using the COMSOL model *turbine_two_sphere_k.mph*, while the one below is related to the estimation of $Zmed_{wire}^\infty (\Omega)$ using *turbine_he_k.mph*. 
 
+**Figure 2**
+![COMSOL_top](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/511ee963-843b-4130-85e0-bb90eaf88c03)
+
 $Zmed_{wire}^\infty (\Omega)$ is the clamp-on reading taken with the turbine grounding and the horizontal electrode separated by a large distance, in a such way that the mutual couplings between these elements can be considered negligible. On the other hand, the $Zmed_{lumped}^{short} (\Omega)$ is the clamp-on reading taken with the turbine grounding and the horizontal electrode separated by a smaller distance $s$ and with the horizontal electrode being represented by two semi-spherical electrodes spaced so that one does not be influenced by the other. For a single lumped parameter cell representing the horizontal electrode, each semi-spherical electrode must have twice its grounding resistance. The table below displays results obtained at an average soil resistivity of 86.8 $(\Omega.m)$. Notably, the COMSOL simulation results reveal that the parameter $k$ remains consistent for a specified value of $s$ across a wide range of soil resistivities, spanning from 20 to 10240 $(\Omega.m)$.
 
 **Table k tuning**
 | $s \ (m)$ | $\rho \ (\Omega.m)$| ${Zmed}_{lumped}^{short} (\Omega) $ | ${Zmed}_{wire}^\infty (\Omega)$| $k$             |
 |---------|---------|------------------------|-----------------------|-----------------|
 | 0.285   | 86.8  | 41.624                 | 60.625                | 0.687     |
-
-**Figure 2**
-![COMSOL_top](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/assets/96079504/511ee963-843b-4130-85e0-bb90eaf88c03)
 
 In instances where simulation software is unavailable for researching the parameter $k$ in the measuring circuit, the attached graph of the Figure 3 serves as a valuable tool for estimating it according to the distance $s$ between the grounding elements.
 

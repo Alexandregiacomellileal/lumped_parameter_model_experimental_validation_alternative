@@ -91,3 +91,12 @@ All simulation input parameters for every ground resistance measurement circuit,
 
 The results serve as validation for the proposed lumped parameter model, with a strong agreement between experimental and simulated data.
 
+________________________________________________________________________________________________________________________
+
+## Contact us:
+Please send an email to: alexgiacomelli@yahoo.com
+
+________________________________________________________________________________________________________________________
+
+## Contributors:
+Federal University of Technology – Parana (UTFPR) and Institute of Technology for Development (LACTEC)

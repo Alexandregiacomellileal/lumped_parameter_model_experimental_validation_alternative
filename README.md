@@ -72,7 +72,7 @@ All simulation input parameters for every ground resistance measurement circuit,
 | $Zmed_{{\text{EFM}}} (\Omega)$ COMSOL| 38.18  | 41.04  | 37.71  |
 | $Zmed_{{\text{LPM}}} (\Omega)$ [^1]| 46.90  | 55.69  | 46.41  |
 | $Zmed_{{\text{LPM}}}(\Omega)$  proposed | 38.50  | 41.22  | 38.10  |
-| <font color="green">$APE_{\text{EFM}}(percent)$ COMSOL   | 1.01   | 1.33   | 0.56   |</font>
+| <font color="green"> $APE_{\text{EFM}}(percent)$ COMSOL </font>   | 1.01   | 1.33   | 0.56   |
 | $APE_{\text{LPM}}(percent)$ [^1] | 24.08  | 37.52  | 23.77  |
 | $APE_{\text{LPM}}(percent)$  proposed| 1.85   | 1.79   | 1.60   |
 

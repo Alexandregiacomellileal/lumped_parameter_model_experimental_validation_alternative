@@ -60,7 +60,7 @@ In instances where simulation software is unavailable for researching the parame
 
 ### Results
 
-All simulation input parameters for every ground resistance measurement circuit, along with their corresponding results, are accessible in the Excel file [[reduce_scale_251223.xlsx](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/blob/main/reduce_scale_251223.xlsx)]. The obtained results demonstrate a robust agreement, with a Mean Absolute Percentage Error of of (1.75 ± 0.20) %, between the values registered by the clamp-on meter and those predicted by the proposed equivalent electrical circuit model. It is important to mention that an error propagation study was carried out to address measurement uncertainties. 
+All simulation input parameters for every ground resistance measurement circuit, along with their corresponding results, are accessible in the Excel file [[reduce_scale_251223.xlsx](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/blob/main/reduce_scale_251223.xlsx)]. The obtained results demonstrate a robust agreement, with a Mean Absolute Percentage Error of of <font color="green"> (1.75 ± 0.20) %</font>  , between the values registered by the clamp-on meter and those predicted by the proposed equivalent electrical circuit model. It is important to mention that an error propagation study was carried out to address measurement uncertainties. 
 
 ### Table of Results
 
@@ -72,7 +72,7 @@ All simulation input parameters for every ground resistance measurement circuit,
 | $Zmed_{{\text{EFM}}} (\Omega)$ COMSOL| 38.18  | 41.04  | 37.71  |
 | $Zmed_{{\text{LPM}}} (\Omega)$ [^1]| 46.90  | 55.69  | 46.41  |
 | $Zmed_{{\text{LPM}}}(\Omega)$  proposed | 38.50  | 41.22  | 38.10  |
-| <font color="green"> $APE_{\text{EFM}}(percent)$ COMSOL </font>   | 1.01   | 1.33   | 0.56   |
+| $APE_{\text{EFM}}(percent)$ COMSOL | 1.01   | 1.33   | 0.56   |
 | $APE_{\text{LPM}}(percent)$ [^1] | 24.08  | 37.52  | 23.77  |
 | $APE_{\text{LPM}}(percent)$  proposed| 1.85   | 1.79   | 1.60   |
 

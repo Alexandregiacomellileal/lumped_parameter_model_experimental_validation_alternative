@@ -50,7 +50,7 @@ Table 1 displays results obtained at an average soil resistivity of 86.8 $(\Omeg
 **Table 1**
 | $s \ (m)$ | $\rho \ (\Omega.m)$| ${Zmed}_{lumped}^{short} (\Omega) $ | ${Zmed}_{wire}^\infty (\Omega)$| $k$             |
 |---------|---------|------------------------|-----------------------|-----------------|
-| 0.285   | 86.8  | 41.624                 | 60.625                | 0.687     |
+| 0.28   | 86.80  | 41.62               | 60.63              | 0.69     |
 
 In instances where simulation software is unavailable for researching the parameter $k$ in the measuring circuit, the attached graph of Figure 3 serves as a valuable tool for estimating it according to the distance $s$ between the grounding elements. This estimate is particularly relevant in cases where the grounding configuration involves reduced-scale 1:40 cylindrical-shaped turbine foundations with multiple driven pillars, constructed of reinforced concrete, and horizontal electrodes.
 

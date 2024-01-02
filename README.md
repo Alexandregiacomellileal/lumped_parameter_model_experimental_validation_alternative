@@ -7,7 +7,7 @@
 
 This repository contains the experimental validation details for the lumped parameter model introduced in Section 2.2 of the associated research paper. The validation experiments were conducted using a scaled-down multi-grounded system, as described below.
 
-`#ffffff`
+`#000000`
 
 ### Experimental Setup
 

@@ -76,6 +76,11 @@ All simulation input parameters for every ground resistance measurement circuit,
 | $APE_{\text{LPM}}(percent)$ [^1] | 24.08  | 37.52  | 23.77  |
 | $APE_{\text{LPM}}(percent)$  proposed| 1.85   | 1.79   | 1.60   |
 
+<style>
+  table {
+    font-size: 10px; /* Ajuste o tamanho da fonte conforme necessário */
+  }
+</style>
 
 |  Turbine                                     | $Zmed_{{\text{meter}}} (\Omega)$ UT278A | $Zmed_{{\text{EFM}}} (\Omega)$ COMSOL | $Zmed_{{\text{LPM}}} (\Omega)$ [^1] | $Zmed_{{\text{LPM}}}(\Omega)$  proposed | $APE_{\text{EFM}}(percent)$ COMSOL | $APE_{\text{LPM}}(percent)$ [^1] | $APE_{\text{LPM}}(percent)$  proposed |
 |---------------------------------------|----------------------------------------|--------------------------------------|-----------------------------------|--------------------------------------|-----------------------------------|---------------------------------|--------------------------------------|

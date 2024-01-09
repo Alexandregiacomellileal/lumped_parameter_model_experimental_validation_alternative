@@ -70,7 +70,7 @@ Here, $APE_{model}$ signifies the expected absolute percentage error for the mod
 
 #### Table 2 - Comparison between modeling and measurement results
 
-| Parameter                          |Turbine 1    | Turbine 2      | Turbine 3      |
+| Clamp-on meter readings     |Turbine 1    | Turbine 2      | Turbine 3      |
 |-----------------------------------|--------|--------|--------|
 | $Zmed_{{\text{meter}}} \ (\Omega)$ UT278A | 37.8   | 40.5   | 37.5   |
 | $Zmed_{{\text{EFM}}} \ (\Omega)$ COMSOL| 38.18  | 41.04  | 37.71  |

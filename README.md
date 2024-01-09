@@ -77,10 +77,10 @@ Here, $APE_{model}$ signifies the expected absolute percentage error for the mod
 | $Zmed_{{\text{LPM}}} (\Omega)$ [^1]| 46.90  | 55.69  | 46.41  |
 | $Zmed_{{\text{DPM}}} (\Omega)$ [^2]| 46.91  | 55.69  | 46.42  |
 | $Zmed_{{\text{LPM}}}(\Omega)$  proposed | 38.50  | 41.22  | 38.10  |
-| $APE_{\text{EFM}}(percent)$ COMSOL | 1.01   | 1.33   | 0.56   |
-| $APE_{\text{LPM}}(percent)$ [^1] | 24.08  | 37.52  | 23.77  |
-| $APE_{\text{DPM}}(percent)$ (%) [^2] | 24.09  | 37.51  | 23.79  |
-| $APE_{\text{LPM}}(percent)$  proposed| 1.85   | 1.79   | 1.60   |
+| $APE_{\text{EFM}}$ (%) COMSOL | 1.01   | 1.33   | 0.56   |
+| $APE_{\text{LPM}}$ (%) [^1] | 24.08  | 37.52  | 23.77  |
+| $APE_{\text{DPM}}$ (%) [^2] | 24.09  | 37.51  | 23.79  |
+| $APE_{\text{LPM}}$ (%) proposed| 1.85   | 1.79   | 1.60   |
 
 
 The provided results showcase the effectiveness of the proposed modeling approach by revealing low absolute percentage errors for our proposed model ($APE_{\text{LPM}}$) in comparison to the lumped and distributed parameter models from previous studies. Specifically, our proposed model demonstrates a mean absolute percentage error of 1.75%, indicating a robust agreement between the observed and standard values. In contrast, the lumped and distributed parameter models exhibit higher errors, emphasizing the accuracy of our proposed modeling approach in estimating the behavior of the measurement circuit.
@@ -97,7 +97,7 @@ The table below summarizes the key findings for each turbine, presenting the met
 
 #### Table 3 - Clamp-on meter readings - Final results including measurement error propagation study
 
-| Turbine | $Zmed_{{\text{meter}}} (\Omega)$ | $Zmed_{{\text{LPM}}} (\Omega)$ | $APE_{\text{LPM}} (percent)$ |
+| Turbine | $Zmed_{{\text{meter}}} (\Omega)$ | $Zmed_{{\text{LPM}}} (\Omega)$ | $APE_{\text{LPM}}$ (%) |
 |---------|---------------------------------|--------------------------------------|----------------------------|
 | 1       | 37.8 $\pm$ 0.5                 | 38.50 $\pm$ 3.28                     | 1.85 $\pm$ 0.21            |
 | 2       | 40.5 $\pm$ 0.5                 | 41.22 $\pm$ 3.50                     | 1.79 $\pm$ 0.19            |

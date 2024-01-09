@@ -62,7 +62,7 @@ In instances where simulation software is unavailable for researching the parame
 
 Table 2 presents a comparison of meter readings, denoted as $Zmed_{LPM} (\Omega)$ obtained through lumped parameter modeling as employed in [^1], and $Zmed_{DPM} (\Omega)$ acquired via distributed parameter modeling from [^2], alongside the readings proposed in this paper. Furthermore, Table 2 displays readings derived through Computational Electromagnetic Modeling with COMSOL, referred to as $Zmed_{EFM} (\Omega)$, and those obtained in the field with the UT278A meter, labeled as $Zmed_{meter} (\Omega)$. 
 
-In the realm of modeling accuracy assessment, the anticipated absolute percentage error ($APE_{model}$  (%) ) serves as a pivotal metric. This metric is calculated based on the standard $Zmed_{meter} (\Omega)$, representing the reference values for comparison. The formula for $APE_{model}$ (%) is expressed as:
+In the realm of modeling accuracy assessment, the anticipated absolute percentage error ($APE_{model}$) serves as a pivotal metric. This metric is calculated based on the standard $Zmed_{meter} (\Omega)$, representing the reference values for comparison. The formula for $APE_{model}$ (%) is expressed as:
 
 $\ APE_{model} = |\frac{{Zmed_{model} - Zmed_{meter}}}{{Zmed_{meter}}}| \times 100 \$
 
@@ -79,7 +79,7 @@ Here, $APE_{model}$ signifies the expected absolute percentage error for the mod
 | $Zmed_{{\text{LPM}}}(\Omega)$  proposed | 38.50  | 41.22  | 38.10  |
 | $APE_{\text{EFM}}(percent)$ COMSOL | 1.01   | 1.33   | 0.56   |
 | $APE_{\text{LPM}}(percent)$ [^1] | 24.08  | 37.52  | 23.77  |
-| $APE_{\text{DPM}}(percent)$ [^2] | 24.09  | 37.51  | 23.79  |
+| $APE_{\text{DPM}}(percent)$ (%) [^2] | 24.09  | 37.51  | 23.79  |
 | $APE_{\text{LPM}}(percent)$  proposed| 1.85   | 1.79   | 1.60   |
 
 

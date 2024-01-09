@@ -95,7 +95,9 @@ All simulation input parameters for every ground resistance measurement circuit,
 
 [^2]: Nappu, M.B., Arief, A., Noor, M.G.: A specific modeling of ground protection system for wind power plants. Energy Reports 8, 647–651 (2022)
 
-Table 3 provides a detailed comparison between the measured impedance ($Zmed_{\text{meter}}$) and the impedance predicted by the lumped parameter model ($Zmed_{\text{LPM}}$). Additionally, the Absolute Percentage Error ($APE_{\text{LPM}}$) is calculated to quantify the dissimilarity between these values.
+   \
+   
+As a conclusive element, Table 3 provides a detailed comparison between the measured impedance ($Zmed_{\text{meter}}$) and the impedance predicted by the proposed lumped parameter model ($Zmed_{\text{LPM}}$). Additionally, the Absolute Percentage Error ($APE_{\text{LPM}}$) is calculated to quantify the dissimilarity between these values.
 The table below summarizes the key findings for each turbine, presenting the meter readings, model-predicted values, and the associated percentage error. It is important to mention that an error propagation study was carried out to address measurement uncertainties. 
 
 #### Table 3 - Clamp-on meter readings - Final results including measurement error propagation study

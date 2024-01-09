@@ -70,13 +70,17 @@ All simulation input parameters for every ground resistance measurement circuit,
 |-----------------------------------|--------|--------|--------|
 | $Zmed_{{\text{meter}}} (\Omega)$ UT278A | 37.8   | 40.5   | 37.5   |
 | $Zmed_{{\text{EFM}}} (\Omega)$ COMSOL| 38.18  | 41.04  | 37.71  |
+| $Zmed_{{\text{LPM}}} (\Omega)$ [^2]| 46.91  | 55.69  | 46.42  |
 | $Zmed_{{\text{LPM}}} (\Omega)$ [^1]| 46.90  | 55.69  | 46.41  |
 | $Zmed_{{\text{LPM}}}(\Omega)$  proposed | 38.50  | 41.22  | 38.10  |
 | $APE_{\text{EFM}}(percent)$ COMSOL | 1.01   | 1.33   | 0.56   |
+| $APE_{\text{LPM}}(percent)$ [^2] | 24.09  | 37.51  | 23.79  |
 | $APE_{\text{LPM}}(percent)$ [^1] | 24.08  | 37.52  | 23.77  |
 | $APE_{\text{LPM}}(percent)$  proposed| 1.85   | 1.79   | 1.60   |
 
 [^1]: A.G. Leal, H.L. L ́opez-Salamanca, A.E. Lazzaretti, D.C. Marcilio, A new approach for ground resistance measurements in onshore wind farms based on clamp-on meters and artificial neural network, Electric Power Systems Research. 210 (2022) 108161.
+
+[^2]: Nappu, M.B., Arief, A., Noor, M.G.: A specific modeling of ground protection system for wind power plants. Energy Reports 8, 647–651 (2022)
 
 
 #### Table 3 - Clamp-on meter readings - Final results including measurement error propagation study

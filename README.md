@@ -73,7 +73,7 @@ Where:
 
 This formula provides a metric for assessing the percentage difference between the observed and standard values, facilitating an evaluation of the accuracy of the models in estimating the behavior of the measurement circuit.
 
-All simulation input parameters for every ground resistance measurement circuit, along with their corresponding results, are accessible in the Excel file [[reduce_scale_251223.xlsx](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/blob/main/reduce_scale_251223.xlsx)]. The obtained results demonstrate a robust agreement, with a Mean Absolute Percentage Error of of (1.75 ± 0.20) %, between the values registered by the clamp-on meter and those predicted by the proposed equivalent electrical circuit model. It is important to mention that an error propagation study was carried out to address measurement uncertainties. 
+All simulation input parameters for every ground resistance measurement circuit, along with their corresponding results, are accessible in the Excel file [[reduce_scale_251223.xlsx](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/blob/main/reduce_scale_251223.xlsx)].
 
 ### Table of Results
 
@@ -95,6 +95,8 @@ All simulation input parameters for every ground resistance measurement circuit,
 
 [^2]: Nappu, M.B., Arief, A., Noor, M.G.: A specific modeling of ground protection system for wind power plants. Energy Reports 8, 647–651 (2022)
 
+Table 3 provides a detailed comparison between the measured impedance ($Z_{\text{med, meter}}$) and the impedance predicted by the lumped parameter model ($Z_{\text{med, LPM}}$). Additionally, the Absolute Percentage Error ($APE_{\text{LPM}}$) is calculated to quantify the dissimilarity between these values.
+The table below summarizes the key findings for each turbine, presenting the meter readings, model-predicted values, and the associated percentage error.
 
 #### Table 3 - Clamp-on meter readings - Final results including measurement error propagation study
 
@@ -104,6 +106,7 @@ All simulation input parameters for every ground resistance measurement circuit,
 | 2       | 40.5 $\pm$ 0.5                 | 41.22 $\pm$ 3.50                     | 1.79 $\pm$ 0.19            |
 | 3       | 37.5 $\pm$ 0.5                 | 38.10 $\pm$ 3.25                     | 1.60 $\pm$ 0.21            |
 
+The obtained results demonstrate a robust agreement, with a Mean Absolute Percentage Error of of (1.75 ± 0.20) %, between the values registered by the clamp-on meter and those predicted by the proposed equivalent electrical circuit model. It is important to mention that an error propagation study was carried out to address measurement uncertainties. 
 
 ### Conclusion
 

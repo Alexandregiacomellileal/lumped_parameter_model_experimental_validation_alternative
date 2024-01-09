@@ -85,7 +85,7 @@ Here, $APE_{model}$ signifies the expected absolute percentage error for the mod
 
 The provided results showcase the effectiveness of the proposed modeling approach by revealing low absolute percentage errors for our proposed model ($APE_{\text{LPM}}$) in comparison to the lumped and distributed parameter models from previous studies. Specifically, our proposed model demonstrates a mean absolute percentage error of 1.75%, indicating a robust agreement between the observed and standard values. In contrast, the lumped and distributed parameter models exhibit higher errors, emphasizing the accuracy of our proposed modeling approach in estimating the behavior of the measurement circuit.
 
-For a more detailed exploration of the simulation input parameters and corresponding results, readers are encouraged to refer to the accompanying Excel file [reduce_scale_251223.xlsx](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/blob/main/reduce_scale_251223.xlsx)].
+For a more detailed exploration of the simulation input parameters and corresponding results, readers are encouraged to refer to the accompanying Excel file [[reduce_scale_251223.xlsx](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/blob/main/reduce_scale_251223.xlsx)].
 
 [^1]: A.G. Leal, H.L. L ́opez-Salamanca, A.E. Lazzaretti, D.C. Marcilio, A new approach for ground resistance measurements in onshore wind farms based on clamp-on meters and artificial neural network, Electric Power Systems Research. 210 (2022) 108161.
 

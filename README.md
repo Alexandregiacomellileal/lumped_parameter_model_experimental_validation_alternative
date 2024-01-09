@@ -60,7 +60,7 @@ In instances where simulation software is unavailable for researching the parame
 
 ### Results
 
-Table 2 presents a comparison of meter readings, denoted as $Zmed_{LPM}$ obtained through lumped parameter modeling as employed in [^1], and $Zmed_{DPM}$ acquired via distributed parameter modeling from [^2], alongside the readings proposed in this paper. Furthermore, Table 1 displays readings derived through Computational Electromagnetic Modeling with COMSOL, referred to as $Zmed_{EFM}$, and those obtained in the field with the UT278A meter, labeled as $Zmed_{meter}$. 
+Table 2 presents a comparison of meter readings, denoted as $Zmed_{LPM}$ obtained through lumped parameter modeling as employed in [^1], and $Zmed_{DPM}$ acquired via distributed parameter modeling from [^2], alongside the readings proposed in this paper. Furthermore, Table 2 displays readings derived through Computational Electromagnetic Modeling with COMSOL, referred to as $Zmed_{EFM}$, and those obtained in the field with the UT278A meter, labeled as $Zmed_{meter}$. 
 
 In the context of modeling, the anticipated absolute percentage error ($APE_{model}$) is calculated based on the standard $Zmed_{meter}$. The formula for calculating $APE_{model}$ (%) is expressed as:
 

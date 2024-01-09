@@ -19,7 +19,7 @@ The proposed lumped parameter model underwent experimental validation using a re
 
 Measurements Zmed <sub>meter</sub> were conducted using the UT-278A clamp-on meter attached to the interconnection cable linking each cylinder (representing the turbine grounding) to the horizontal electrode. The measurements were compared with simulated readings Zmed <sub>LPM</sub> obtained from the proposed equivalent electrical circuit model. The instrument resolution is 0.1 Ω, and its accuracy is ± (1.0% + 1 dig) for a range from 0.10 − 49.9 Ω. For a range from 50.0 − 99.9 Ω, its resolution is 0.5 Ω, and its accuracy is ± (1.5% + 1 dig).
 
-### Lumped Parameter Modeling
+### Circuit Modeling
 
 The electrical circuit for the measurements was established and simulated in ATP to acquire the meter readings Zmed<sub>LPM</sub> following the procedures detailed in Section 2.2 of the associated research paper. Furthermore, the lumped parameter modeling used in [our previous work](https://github.com/Alexandregiacomellileal/A-New-Approach-Towards-Error-Reduction-in-Ground-Resistance-Measurements-Based-on-Clamp-on-Method) [^1] was also established and simulated in ATP for comparative purposes. The ATP files used by the authors are [[23_model_rod1.acp](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/blob/main/23_model_rod1.acp)], [[23_model.acp](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/blob/main/23_model.acp)], [[23_model_rod3.acp](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/blob/main/23_model_rod3.acp)], [[celulapi_COMSOL_k_RLC.acp](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/blob/main/celulapi_COMSOL_k_RLC.acp)], [[celulapi_COMSOL_k_RLC_rod1.acp](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/blob/main/celulapi_COMSOL_k_RLC_rod1.acp)], and [[celulapi_COMSOL_k_RLC_rod3.acp](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/blob/main/celulapi_COMSOL_k_RLC_rod3.acp)]. 
 
@@ -71,11 +71,11 @@ All simulation input parameters for every ground resistance measurement circuit,
 | $Zmed_{{\text{meter}}} (\Omega)$ UT278A | 37.8   | 40.5   | 37.5   |
 | $Zmed_{{\text{EFM}}} (\Omega)$ COMSOL| 38.18  | 41.04  | 37.71  |
 | $Zmed_{{\text{LPM}}} (\Omega)$ [^1]| 46.90  | 55.69  | 46.41  |
-| $Zmed_{{\text{LPM}}} (\Omega)$ [^2]| 46.91  | 55.69  | 46.42  |
+| $Zmed_{{\text{DPM}}} (\Omega)$ [^2]| 46.91  | 55.69  | 46.42  |
 | $Zmed_{{\text{LPM}}}(\Omega)$  proposed | 38.50  | 41.22  | 38.10  |
 | $APE_{\text{EFM}}(percent)$ COMSOL | 1.01   | 1.33   | 0.56   |
 | $APE_{\text{LPM}}(percent)$ [^1] | 24.08  | 37.52  | 23.77  |
-| $APE_{\text{LPM}}(percent)$ [^2] | 24.09  | 37.51  | 23.79  |
+| $APE_{\text{DPM}}(percent)$ [^2] | 24.09  | 37.51  | 23.79  |
 | $APE_{\text{LPM}}(percent)$  proposed| 1.85   | 1.79   | 1.60   |
 
 [^1]: A.G. Leal, H.L. L ́opez-Salamanca, A.E. Lazzaretti, D.C. Marcilio, A new approach for ground resistance measurements in onshore wind farms based on clamp-on meters and artificial neural network, Electric Power Systems Research. 210 (2022) 108161.

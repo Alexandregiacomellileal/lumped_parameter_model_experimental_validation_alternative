@@ -93,7 +93,7 @@ The table below summarizes the key findings for each turbine, presenting the met
 
 #### Table 3 - Clamp-on meter readings - Final results including measurement error propagation study
 
-| Turbine | $Zmed_{{\text{meter}}} \ (\Omega)$ | $Zmed_{{\text{LPM}}} \ (\Omega)$ | $APE_{\text{LPM}}$ (%) |
+| Turbine | $Zmed_{{\text{meter}}} \ (\Omega)$ | $Zmed_{{\text{LPM}}} \ (\Omega)$ proposed | $APE_{\text{LPM}}$ (%) proposed|
 |---------|---------------------------------|--------------------------------------|----------------------------|
 | 1       | 37.8 $\pm$ 0.5                 | 38.50 $\pm$ 3.28                     | 1.85 $\pm$ 0.21            |
 | 2       | 40.5 $\pm$ 0.5                 | 41.22 $\pm$ 3.50                     | 1.79 $\pm$ 0.19            |

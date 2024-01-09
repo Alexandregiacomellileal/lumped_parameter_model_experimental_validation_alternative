@@ -60,6 +60,31 @@ In instances where simulation software is unavailable for researching the parame
 
 ### Results
 
+Table 2 presents a comparison of meter readings, denoted as $Zmed_{LPM}$ obtained through lumped parameter modeling as employed in [^1], and $Zmed_{DPM}$ acquired via distributed parameter modeling from [^2], alongside the readings proposed in this paper. Furthermore, Table 1 displays readings derived through Computational Electromagnetic Modeling with COMSOL, referred to as $Zmed_{EFM}$, and those obtained in the field with the UT278A meter, labeled as $Zmed_{meter}$. 
+
+In the context of modeling, the anticipated absolute percentage error ($APE_{model}$) is calculated based on the standard $Zmed_{meter}$. The formula for calculating $APE_{model}$ (%) is expressed as:
+
+\[ APE_{model} = \left| \frac{{Zmed_{model} - Zmed_{meter}}}{{Zmed_{meter}}} \right| \times 100 \]
+
+Where:
+- $APE_{model}$ represents the expected absolute percentage error for the modeling.
+- $Zmed_{meter}$ serves as the reference value used for comparison.
+- $Zmed_{model}$ is the observed value derived from the modeling.
+
+This formula provides a metric for assessing the percentage difference between the observed and standard values, facilitating an evaluation of the accuracy of the models in estimating the behavior of the measurement circuit.
+
+Table 2 juxtaposes the meter readings $Zmed_{LPM}$ acquired through lumped parameter modeling as utilized in [^1], and $Zmed_{DPM}$ obtained via distributed parameter modeling from [^2], alongside the readings proposed in this paper. In addition, Table 1 showcases the readings derived through Computational Electromagnetic Modeling with COMSOL denoted as $Zmed_{EFM}$ and from obtained in the field with the meter UT278A $Zmed_{meter}$. The measurement circuit was simulated under different homogeneous soil with a low-frequency resistivity of 100, 300, 5252, and 10240  $\Omega \cdot m$. In the context of modeling, the expected absolute percentage error ($APE_{model}$) is calculated based on the standard $Zmed_{meter}$. The formula for calculating $APE_{model}$ (%) is given by:
+
+
+$\ APE_{model} = |\frac{{Zmed_{model} - Zmed_{meter}}}{{Zmed_{meter}}}| \times 100 \$
+
+Where:
+- $APE_{model}$ is the expected absolute percentage error for the modeling
+- $Zmed_{meter}$ is the reference value taken for comparison.
+- $Zmed_{model}$ is the observed value from the modeling.
+
+This formula provides a measure of the percentage difference between the observed and standard values, allowing for an assessment of the accuracy of the models in estimated the behaviour of the measurement circuit.
+
 All simulation input parameters for every ground resistance measurement circuit, along with their corresponding results, are accessible in the Excel file [[reduce_scale_251223.xlsx](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/blob/main/reduce_scale_251223.xlsx)]. The obtained results demonstrate a robust agreement, with a Mean Absolute Percentage Error of of (1.75 ± 0.20) %, between the values registered by the clamp-on meter and those predicted by the proposed equivalent electrical circuit model. It is important to mention that an error propagation study was carried out to address measurement uncertainties. 
 
 ### Table of Results

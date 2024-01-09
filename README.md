@@ -62,7 +62,7 @@ In instances where simulation software is unavailable for researching the parame
 
 Table 2 presents a comparison of meter readings, denoted as $Zmed_{LPM} (\Omega)$ obtained through lumped parameter modeling as employed in [^1], and $Zmed_{DPM} (\Omega)$ acquired via distributed parameter modeling from [^2], alongside the readings proposed in this paper. Furthermore, Table 2 displays readings derived through Computational Electromagnetic Modeling with COMSOL, referred to as $Zmed_{EFM} (\Omega)$, and those obtained in the field with the UT278A meter, labeled as $Zmed_{meter} (\Omega)$. 
 
-In the realm of modeling accuracy assessment, the anticipated absolute percentage error ($APE_{model} (%)$) serves as a pivotal metric. This metric is calculated based on the standard $Zmed_{meter} (\Omega)$, representing the reference values for comparison. The formula for $APE_{model}$ (%) is expressed as:
+In the realm of modeling accuracy assessment, the anticipated absolute percentage error ($APE_{model}$  (%) ) serves as a pivotal metric. This metric is calculated based on the standard $Zmed_{meter} (\Omega)$, representing the reference values for comparison. The formula for $APE_{model}$ (%) is expressed as:
 
 $\ APE_{model} = |\frac{{Zmed_{model} - Zmed_{meter}}}{{Zmed_{meter}}}| \times 100 \$
 
@@ -83,7 +83,7 @@ Here, $APE_{model}$ signifies the expected absolute percentage error for the mod
 | $APE_{\text{LPM}}(percent)$  proposed| 1.85   | 1.79   | 1.60   |
 
 
-The provided results showcase the effectiveness of the proposed modeling approach by revealing low absolute percentage errors for our proposed model ($APE_{\text{LPM}} (%)$) in comparison to the lumped and distributed parameter models from previous studies. Specifically, our proposed model demonstrates a mean absolute percentage error of 1.75%, indicating a robust agreement between the observed and standard values. In contrast, the lumped and distributed parameter models exhibit higher errors, emphasizing the accuracy of our proposed modeling approach in estimating the behavior of the measurement circuit.
+The provided results showcase the effectiveness of the proposed modeling approach by revealing low absolute percentage errors for our proposed model ($APE_{\text{LPM}}$) in comparison to the lumped and distributed parameter models from previous studies. Specifically, our proposed model demonstrates a mean absolute percentage error of 1.75%, indicating a robust agreement between the observed and standard values. In contrast, the lumped and distributed parameter models exhibit higher errors, emphasizing the accuracy of our proposed modeling approach in estimating the behavior of the measurement circuit.
 
 For a more detailed exploration of the simulation input parameters and corresponding results, readers are encouraged to refer to the accompanying Excel file [[reduce_scale_251223.xlsx](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/blob/main/reduce_scale_251223.xlsx)].
 

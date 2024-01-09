@@ -62,20 +62,11 @@ In instances where simulation software is unavailable for researching the parame
 
 Table 2 presents a comparison of meter readings, denoted as $Zmed_{LPM}$ obtained through lumped parameter modeling as employed in [^1], and $Zmed_{DPM}$ acquired via distributed parameter modeling from [^2], alongside the readings proposed in this paper. Furthermore, Table 2 displays readings derived through Computational Electromagnetic Modeling with COMSOL, referred to as $Zmed_{EFM}$, and those obtained in the field with the UT278A meter, labeled as $Zmed_{meter}$. 
 
-In the context of modeling, the anticipated absolute percentage error ($APE_{model}$) is calculated based on the standard $Zmed_{meter}$. The formula for calculating $APE_{model}$ (%) is expressed as:
+In the realm of modeling accuracy assessment, the anticipated absolute percentage error ($APE_{model}$) serves as a pivotal metric. This metric is calculated based on the standard $Zmed_{meter}$, representing the reference values for comparison. The formula for $APE_{model}$ (%) is expressed as:
 
 $\ APE_{model} = |\frac{{Zmed_{model} - Zmed_{meter}}}{{Zmed_{meter}}}| \times 100 \$
 
-Where:
-- $APE_{model}$ represents the expected absolute percentage error for the modeling.
-- $Zmed_{meter}$ serves as the reference value used for comparison.
-- $Zmed_{model}$ is the observed value derived from the modeling.
-
-This formula provides a metric for assessing the percentage difference between the observed and standard values, facilitating an evaluation of the accuracy of the models in estimating the behavior of the measurement circuit.
-
-All simulation input parameters for every ground resistance measurement circuit, along with their corresponding results, are accessible in the Excel file [[reduce_scale_251223.xlsx](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/blob/main/reduce_scale_251223.xlsx)].
-
-### Table of Results
+Here, $APE_{model}$ signifies the expected absolute percentage error for the modeling, $Zmed_{meter}$ is the reference value, and $Zmed_{model}$ is the observed value from the modeling. 
 
 #### Table 2 - Comparison between modeling and measurement results
 
@@ -91,12 +82,16 @@ All simulation input parameters for every ground resistance measurement circuit,
 | $APE_{\text{DPM}}(percent)$ [^2] | 24.09  | 37.51  | 23.79  |
 | $APE_{\text{LPM}}(percent)$  proposed| 1.85   | 1.79   | 1.60   |
 
+
+The provided results showcase the effectiveness of the proposed modeling approach by revealing low absolute percentage errors for our proposed model ($APE_{\text{LPM}}$) in comparison to the lumped and distributed parameter models from previous studies. Specifically, our proposed model demonstrates a mean absolute percentage error of 1.75%, indicating a robust agreement between the observed and standard values. In contrast, the lumped and distributed parameter models exhibit higher errors, emphasizing the accuracy of our proposed modeling approach in estimating the behavior of the measurement circuit.
+
+For a more detailed exploration of the simulation input parameters and corresponding results, readers are encouraged to refer to the accompanying Excel file [reduce_scale_251223.xlsx](https://github.com/Alexandregiacomellileal/lumped_parameter_model_experimental_validation_alternative/blob/main/reduce_scale_251223.xlsx)].
+
 [^1]: A.G. Leal, H.L. L ́opez-Salamanca, A.E. Lazzaretti, D.C. Marcilio, A new approach for ground resistance measurements in onshore wind farms based on clamp-on meters and artificial neural network, Electric Power Systems Research. 210 (2022) 108161.
 
 [^2]: Nappu, M.B., Arief, A., Noor, M.G.: A specific modeling of ground protection system for wind power plants. Energy Reports 8, 647–651 (2022)
 
-   \
-   
+
 As a conclusive element, Table 3 provides a detailed comparison between the measured impedance ($Zmed_{\text{meter}}$) and the impedance predicted by the proposed lumped parameter model ($Zmed_{\text{LPM}}$). Additionally, the Absolute Percentage Error ($APE_{\text{LPM}}$) is calculated to quantify the dissimilarity between these values.
 The table below summarizes the key findings for each turbine, presenting the meter readings, model-predicted values, and the associated percentage error. It is important to mention that an error propagation study was carried out to address measurement uncertainties. 
 
